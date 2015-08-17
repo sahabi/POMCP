@@ -1,0 +1,449 @@
+#include "4by3.h"
+#include "utils.h"
+
+using namespace std;
+using namespace UTILS;
+const int FOURBYTHREE::xsize = 4;
+const int FOURBYTHREE::ysize = 4;
+const int xSize = 4;
+const int ySize = 4;
+const int n_states = 16;
+const int n_actions = 5;
+const int h_states = 16;
+const int success = xSize*ySize - 1;
+
+std::pair<int,int> p_states[h_states*n_states];
+std::pair<int,int> statepair;
+std::pair<int,int> nextstatepair;
+
+double pprob[n_actions][h_states*n_states][h_states*n_states];
+
+double hprob[h_states][h_states] = 
+			{{1./3.,1./3.,0,0,1./3.,0,0,0,0,0,0,0,0,0,0,0},//0
+			 {1./4.,1./4.,1./4.,0,0,1./4.,0,0,0,0,0,0,0,0,0,0},//1
+			 {0,1./4.,1./4.,1./4.,0,0,1./4.,0,0,0,0,0,0,0,0,0},//2
+			 {0,0,1./3.,1./3.,0,0,0,1./3.,0,0,0,0,0,0,0,0},//3
+			 {1./4.,0,0,0,1./4.,1./4.,0,0,1./4.,0,0,0,0,0,0,0},//4
+			 {0,1./5.,0,0,1./5.,1./5.,1./5.,0,0,1./5.,0,0,0,0,0,0},//5
+			 {0,0,1./5.,0,0,1./5.,1./5.,1./5.,0,0,1./5.,0,0,0,0,0},//6
+			 {0,0,0,1./4.,0,0,1./4.,1./4.,0,0,0,1./4.,0,0,0,0},//7
+			 {0,0,0,0,1./4.,0,0,0,1./4.,1./4.,0,0,1./4.,0,0,0},//8
+			 {0,0,0,0,0,1./5.,0,0,1./5.,1./5.,1./5.,0,0,1./5.,0,0},//9
+			 {0,0,0,0,0,0,1./5.,0,0,1./5.,1./5.,1./5.,0,0,1./5.,0},//10
+			 {0,0,0,0,0,0,0,1./3.,0,0,1./3.,1./3.,0,0,0,0},//11
+			 {0,0,0,0,0,0,0,0,1./3.,0,0,0,1./3.,1./3.,0,0},//12
+			 {0,0,0,0,0,0,0,0,0,1./4.,0,0,1./4.,1./4.,1./4.,0},//13
+			 {0,0,0,0,0,0,0,0,0,0,1./3.,0,0,1./3.,1./3.,0},//14
+			 {0,0,0,0,0,0,0,0,0,0,0,1./3.,0,0,1./3.,1./3.}//15
+			};
+
+double prob[n_actions][n_states][n_states] = {//N
+			{{0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0},//0
+			 {0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0},//1
+			 {0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0},//2
+			 {0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0},//3
+			 {0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0},//4
+			 {0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0},//5
+			 {0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0},//6
+			 {0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0},//7
+			 {0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0},//8
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0},//9
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0},//10
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1},//11
+			 {0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0},//12
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0},//13
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0},//14
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}//15
+			},//E
+			{{0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//0
+			 {0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0},//1
+			 {0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0},//2
+			 {0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0},//3
+			 {0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0},//4
+			 {0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0},//5
+			 {0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0},//6
+			 {0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0},//7
+			 {0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0},//8
+			 {0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0},//9
+			 {0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0},//10
+			 {0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0},//11
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0},//12
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0},//13
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1},//14
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}//15
+			},//S
+			{{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//0
+			 {0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//1
+			 {0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0},//2
+			 {0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0},//3
+			 {1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//4
+			 {0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//5
+			 {0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0},//6
+			 {0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0},//7
+			 {0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0},//8
+			 {0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0},//9
+			 {0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0},//10
+			 {0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0},//11
+			 {0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0},//12
+			 {0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0},//13
+			 {0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0},//14
+			 {0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0}//15
+			},//W
+			{{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//0
+			 {1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//1
+			 {0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//2
+			 {0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0},//3
+			 {0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0},//4
+			 {0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0},//5
+			 {0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0},//6
+			 {0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0},//7
+			 {0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0},//8
+			 {0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0},//9
+			 {0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0},//10
+			 {0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0},//11
+			 {0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0},//12
+			 {0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0},//13
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0},//14
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0}//15
+			},//R
+			{{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//0
+			 {0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},//1
+			 {0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0},//2
+			 {0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0},//3
+			 {0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0},//4
+			 {0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0},//5
+			 {0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0},//6
+			 {0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0},//7
+			 {0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0},//8
+			 {0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0},//9
+			 {0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0},//10
+			 {0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0},//11
+			 {0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0},//12
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0},//13
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0},//14
+			 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}//15
+}};
+
+FOURBYTHREE::FOURBYTHREE(int xsize, int ysize)
+:   Maze(xsize, ysize), xSize(xsize), ySize(ysize)
+{
+    NumActions = 5;
+    NumObservations = 257;
+    RewardRange = 1;
+    srand(time(0));
+    Discount = 1;
+    double p;
+    double hp;
+//cout<<"init"<<endl;
+    for (int i = 0; i < h_states; i++) {
+        for (int j = 0; j < n_states; j++)
+            p_states[j + n_states*i] = make_pair(j,i);
+}
+    for (int i = 0; i < NumActions; i++){
+        for (int j = 0; j < h_states*n_states; j++){
+            statepair = p_states[j];
+            for (int x = 0; x < h_states*n_states; x++){
+                nextstatepair = p_states[x];
+                p = prob[i][statepair.first][nextstatepair.first];
+                hp = hprob[statepair.second][nextstatepair.second];
+                pprob[i][j][x] = p*hp;
+}}}
+/*
+    for a in pmdp.actlist:
+        pmdp.prob[a]=np.zeros((N,N))
+        for i in range(N):
+            (s,q)=pmdp.states[i]
+        
+            pmdp.L[(s,q)]=mdp.L[s]
+            for j in range(N):
+                (next_s,next_q)=pmdp.states[j]
+                if next_q == dra.get_transition(mdp.L[next_s],q):
+                    p=mdp.P(s,a,next_s)
+                    pmdp.prob[a][i,j]= p
+
+*/
+   
+}
+
+STATE* FOURBYTHREE::Copy(const STATE& state) const
+{
+    const FOURBYTHREE_STATE& tagstate = safe_cast<const FOURBYTHREE_STATE&>(state);
+    FOURBYTHREE_STATE* newstate = MemoryPool.Allocate();
+//cout<<"copy"<<endl;
+    *newstate = tagstate;
+    return newstate; 
+}
+
+
+void FOURBYTHREE::Validate(const STATE& state) const
+{
+    const FOURBYTHREE_STATE& tagstate = safe_cast<const FOURBYTHREE_STATE&>(state);
+    //assert(Maze.Inside(tagstate.AgentPos));
+    //assert(tagstate.AgentPos != ObstPos);
+}
+
+STATE* FOURBYTHREE::CreateStartState() const
+{
+    FOURBYTHREE_STATE* tagstate = MemoryPool.Allocate();
+    tagstate->AgentPos = NextState(192,0);
+
+    return tagstate;
+}
+
+void FOURBYTHREE::FreeState(STATE* state) const
+{
+    FOURBYTHREE_STATE* tagstate = safe_cast<FOURBYTHREE_STATE*>(state);
+//cout<<"free"<<endl;
+    MemoryPool.Free(tagstate);
+}
+
+
+int FOURBYTHREE::NextState(int from, int dir) const
+{
+
+    float p= (rand() / static_cast<float>(RAND_MAX));
+
+ //   if (from<0)
+  //      return 99;
+
+     for (int i = 0; i < 256; i++){
+         p = p - pprob[dir][from][i];
+         if (p <= 0)
+             return i;
+     }
+
+
+    return 44;
+}
+
+bool FOURBYTHREE::Step(STATE& state, int action, 
+    int& observation, double& reward) const
+{
+    reward = 0;
+
+    FOURBYTHREE_STATE& tagstate = safe_cast<FOURBYTHREE_STATE&>(state);
+    int oldstate = tagstate.AgentPos;
+    int newstate = NextState(oldstate, action);
+    tagstate.AgentPos = newstate;
+    observation = MakeObservations(tagstate);
+/*    cout <<"Aircraft:"<<tagstate.AgentPos % n_states <<endl;
+    cout <<"Human:"<<tagstate.AgentPos / n_states <<endl;
+    cout <<"Observation: "<<observation<<endl;
+    cout <<"Action: "<<action<<endl;
+*/
+    if (newstate/16 == newstate % 16)
+{
+        reward = 0;
+        return true;     
+}
+    if (newstate % 16 == success)
+{
+        reward = 1;
+        return true;
+}
+
+
+
+
+   // reward -= 0.01;
+    return false;
+
+}
+
+inline int FOURBYTHREE::MakeObservations(const FOURBYTHREE_STATE& tagstate) const
+{
+    int obs;
+    int RandIndex;
+    int humanPos = tagstate.AgentPos/16;
+    int aircraftPos = tagstate.AgentPos%16;
+
+    if ((abs((tagstate.AgentPos % n_states) - (tagstate.AgentPos / n_states)) <=  (2 * xsize)) && (abs(((tagstate.AgentPos % n_states)%xsize) - ((tagstate.AgentPos / n_states)%xsize)) <=  2)){
+        obs = ((humanPos)*16 + aircraftPos);//mixed sensors
+        return obs;
+}
+
+    if (humanPos == ((4 - 1) * 4)){ //Top Left Corner
+
+        int obslist [4] = {humanPos,humanPos + 1,humanPos - 4 + 1,humanPos - 4};
+        RandIndex = rand() % 4;
+
+        obs = obslist[RandIndex]*16 + aircraftPos;
+
+        return obs;
+}
+    else if (humanPos == ((4 * 4) - 1)){ //Top Right Corner
+
+        int obslist [4] = {humanPos,humanPos - 1,humanPos - 4 - 1,humanPos - 4};       
+
+        RandIndex = rand() % 4; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+  
+        return obs;
+}
+    else if (humanPos == 0){ //Bottom Left Corner
+ //       cout<<"BL"<<endl;
+    int obslist [4] = {humanPos,humanPos + 1,humanPos + 4,humanPos + 4 + 1};
+        RandIndex = rand() % 4; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+//   cout<<obs<<endl;     
+        return obs;
+}
+    else if (humanPos == 4 - 1){ //Bottom Right Corner
+  //      cout<<"BR"<<endl;
+        int obslist [4] = {humanPos,humanPos - 1,humanPos + 4,humanPos + 4 - 1};
+        RandIndex = rand() % 4; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+ //  cout<<obs<<endl;     
+        return obs;
+}
+    else if (humanPos%4 == 0){ //left
+
+        int obslist [6] = {humanPos,humanPos + 1,humanPos + 4,humanPos + 4 + 1,humanPos - 4 + 1,humanPos - 4};
+        RandIndex = rand() % 6; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+        
+        return obs;
+}
+    else if ((humanPos%4) == (4 - 1)){ //Right
+
+        int obslist [6] = {humanPos,humanPos + 4,humanPos + 4 - 1,humanPos - 1,humanPos - 4 - 1,humanPos - 4};
+
+        RandIndex = rand() % 6; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+        
+        return obs;
+}
+    else if (humanPos >= ((4 - 1) * 4)){ //Top
+
+        int obslist [6] = {humanPos,humanPos + 1,humanPos - 1,humanPos - 4 - 1,humanPos - 4 + 1,humanPos - 4};
+        RandIndex = rand() % 6; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+        
+        return obs;
+}
+    else if ((humanPos < 4) && (humanPos >=0)){ //Bot
+  //      cout<<"B"<<endl;
+        int obslist [6] = {humanPos,humanPos + 1,humanPos + 4,humanPos + 4 + 1,humanPos + 4 - 1,humanPos - 1};
+
+        RandIndex = rand() % 6; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+   //     cout<<obs<<endl;
+  //      cout<<((humanPos < xSize) && (humanPos >=0))<<endl;
+        return obs;
+}
+    else if ((humanPos > 0) && (humanPos < xSize * ySize)){
+   //     cout<<"ALL"<<endl;
+        int obslist [9] = {humanPos,humanPos + 1,humanPos + 4,humanPos + 4 + 1,humanPos + 4 - 1,humanPos - 1,humanPos - 4 - 1,humanPos - 4 + 1,humanPos - 4};
+
+        RandIndex = rand() % 9; 
+        obs = obslist[RandIndex]*16 + aircraftPos;
+        
+        return obs;
+}
+    else
+        return 256;
+//cout<<"!!"<<endl;
+       
+
+  //  else
+  //      return 256;
+}
+
+
+bool FOURBYTHREE::LocalMove(STATE& state, const HISTORY& history,
+    int stepObs, const STATUS& status) const
+{
+    FOURBYTHREE_STATE& tagstate = safe_cast<FOURBYTHREE_STATE&>(state);
+
+    return false;
+}
+void FOURBYTHREE::GenerateLegal(const STATE& state, const HISTORY& history,
+    vector<int>& legal, const STATUS& status) const
+{
+
+    const FOURBYTHREE_STATE& tagstate =
+        safe_cast<const FOURBYTHREE_STATE&>(state);
+
+    legal.push_back(COORD::E_NORTH);
+    legal.push_back(COORD::E_EAST);
+    legal.push_back(COORD::E_SOUTH);
+    legal.push_back(COORD::E_WEST);
+    legal.push_back(COORD::E_NORTHEAST);
+
+}
+
+void FOURBYTHREE::GeneratePreferred(const STATE& state, const HISTORY& history,
+    vector<int>& actions, const STATUS& status) const
+{
+}
+
+void FOURBYTHREE::DisplayBeliefs(const BELIEF_STATE& beliefState, 
+    std::ostream& ostr) const
+{
+ 
+}
+
+void FOURBYTHREE::DisplayState(const STATE& state, std::ostream& ostr) const
+{
+    const FOURBYTHREE_STATE& tagstate = safe_cast<const FOURBYTHREE_STATE&>(state);
+    ostr << endl;
+    cout <<"State:"<<tagstate.AgentPos <<endl;
+    cout <<"Aircraft:"<<tagstate.AgentPos % n_states <<endl;
+    cout <<"Human:"<<tagstate.AgentPos / n_states <<endl;
+/*for (int i = 0; i < 60; i++) 
+    cout <<" "<< pprob[1][10][i];
+cout<<"\n"<<endl;
+for (int i = 0; i < 12; i++) 
+    cout <<" "<< prob[1][10][i];
+    for (int x = 0; x < xSize + 2; x++)
+        ostr << "# ";
+    ostr << endl;
+    for (int y = ySize - 1; y >= 0; y--)
+    {
+        ostr << "# ";
+        for (int x = 0; x < xSize; x++)
+        {
+            if (tagstate.AgentPos == COORD(x, y))
+                ostr << "M ";
+            else if (ObstPos == COORD(x, y))
+                ostr << "O ";
+            else if (PlusPos == COORD(x, y))
+                ostr << "+ ";
+            else if (NegPos == COORD(x, y))
+                ostr << "- ";
+            else
+                ostr << ". ";
+        }
+        ostr << "#" << endl;
+    }
+    for (int x = 0; x < xSize + 2; x++)
+        ostr << "# ";
+    ostr << endl;*/
+}
+
+void FOURBYTHREE::DisplayObservation(const STATE& state, int observation, std::ostream& ostr) const
+{
+ostr << "Observation: " << observation << endl;
+ /*   if (observation == 0)
+        ostr << "Observation: left" << endl;
+    else if (observation == 1)
+        ostr << "Observation: Right" << endl;
+    else if (observation == 2)
+        ostr << "Observation: Neither" << endl;
+    else if (observation == 3)
+        ostr << "Observation: Both" << endl;
+    else if (observation == 4)
+        ostr << "Observation: Good" << endl;
+    else if (observation == 5)
+        ostr << "Observation: Bad" << endl;
+    else if (observation == 6)
+        ostr << "Observation: Absorb" << endl;
+    else
+        ostr << "ERROR" << endl;*/
+}
+
+void FOURBYTHREE::DisplayAction(int action, std::ostream& ostr) const
+{
+  /*  if (action < 4)
+        ostr << "Action:" << COORD::CompassString[action] << endl;    */
+}

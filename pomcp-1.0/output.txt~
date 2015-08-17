@@ -1,0 +1,1315 @@
+Main runs
+Starting run 1 with 1 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+Out of particles, finishing episode with SelectRandom
+
+Cell:149
+Aircraft:5
+Human:9
+Observation: 149
+
+Cell:85
+Aircraft:5
+Human:5
+Observation: 85
+Terminated
+Discounted return = 0, average = 0
+Undiscounted return = 0, average = 0
+Starting run 2 with 1 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+Out of particles, finishing episode with SelectRandom
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 128
+
+Cell:84
+Aircraft:4
+Human:5
+Observation: 84
+
+Cell:104
+Aircraft:8
+Human:6
+Observation: 104
+
+Cell:124
+Aircraft:12
+Human:7
+Observation: 188
+
+Cell:189
+Aircraft:13
+Human:11
+Observation: 189
+
+Cell:173
+Aircraft:13
+Human:10
+Observation: 173
+
+Cell:236
+Aircraft:12
+Human:14
+Observation: 236
+
+Cell:220
+Aircraft:12
+Human:13
+Observation: 220
+
+Cell:204
+Aircraft:12
+Human:12
+Observation: 204
+Terminated
+Discounted return = 0, average = 0
+Undiscounted return = 0, average = 0
+Starting run 3 with 1 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:132
+Aircraft:4
+Human:8
+Observation: 132
+Out of particles, finishing episode with SelectRandom
+
+Cell:148
+Aircraft:4
+Human:9
+Observation: 148
+
+Cell:84
+Aircraft:4
+Human:5
+Observation: 84
+
+Cell:101
+Aircraft:5
+Human:6
+Observation: 101
+
+Cell:113
+Aircraft:1
+Human:7
+Observation: 113
+
+Cell:176
+Aircraft:0
+Human:11
+Observation: 160
+
+Cell:160
+Aircraft:0
+Human:10
+Observation: 208
+
+Cell:225
+Aircraft:1
+Human:14
+Observation: 145
+
+Cell:209
+Aircraft:1
+Human:13
+Observation: 209
+
+Cell:193
+Aircraft:1
+Human:12
+Observation: 129
+
+Cell:133
+Aircraft:5
+Human:8
+Observation: 133
+
+Cell:149
+Aircraft:5
+Human:9
+Observation: 149
+
+Cell:89
+Aircraft:9
+Human:5
+Observation: 89
+
+Cell:105
+Aircraft:9
+Human:6
+Observation: 105
+
+Cell:122
+Aircraft:10
+Human:7
+Observation: 122
+
+Cell:190
+Aircraft:14
+Human:11
+Observation: 190
+
+Cell:175
+Aircraft:15
+Human:10
+Observation: 175
+Terminated
+Discounted return = 0, average = 0.806268
+Undiscounted return = 0, average = 0.806268
+Starting run 352 with 64 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:145
+Aircraft:1
+Human:9
+Observation: 145
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:101
+Aircraft:5
+Human:6
+Observation: 101
+
+Cell:113
+Aircraft:1
+Human:7
+Observation: 113
+
+Cell:181
+Aircraft:5
+Human:11
+Observation: 181
+
+Cell:161
+Aircraft:1
+Human:10
+Observation: 241
+
+Cell:226
+Aircraft:2
+Human:14
+Observation: 226
+
+Cell:210
+Aircraft:2
+Human:13
+Observation: 162
+
+Cell:195
+Aircraft:3
+Human:12
+Observation: 211
+
+Cell:130
+Aircraft:2
+Human:8
+Observation: 130
+
+Cell:150
+Aircraft:6
+Human:9
+Observation: 150
+
+Cell:90
+Aircraft:10
+Human:5
+Observation: 90
+
+Cell:110
+Aircraft:14
+Human:6
+Observation: 110
+
+Cell:127
+Aircraft:15
+Human:7
+Observation: 127
+Terminated
+Discounted return = 1, average = 0.806818
+Undiscounted return = 1, average = 0.806818
+Starting run 353 with 64 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:145
+Aircraft:1
+Human:9
+Observation: 145
+
+Cell:82
+Aircraft:2
+Human:5
+Observation: 82
+
+Cell:99
+Aircraft:3
+Human:6
+Observation: 99
+
+Cell:115
+Aircraft:3
+Human:7
+Observation: 115
+
+Cell:179
+Aircraft:3
+Human:11
+Observation: 179
+
+Cell:163
+Aircraft:3
+Human:10
+Observation: 163
+
+Cell:231
+Aircraft:7
+Human:14
+Observation: 231
+
+Cell:219
+Aircraft:11
+Human:13
+Observation: 219
+
+Cell:207
+Aircraft:15
+Human:12
+Observation: 207
+Terminated
+Discounted return = 1, average = 0.807365
+Undiscounted return = 1, average = 0.807365
+Starting run 354 with 64 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:148
+Aircraft:4
+Human:9
+Observation: 148
+
+Cell:80
+Aircraft:0
+Human:5
+Observation: 80
+
+Cell:100
+Aircraft:4
+Human:6
+Observation: 100
+
+Cell:117
+Aircraft:5
+Human:7
+Observation: 117
+
+Cell:185
+Aircraft:9
+Human:11
+Observation: 185
+
+Cell:169
+Aircraft:9
+Human:10
+Observation: 169
+
+Cell:234
+Aircraft:10
+Human:14
+Observation: 234
+
+Cell:222
+Aircraft:14
+Human:13
+Observation: 222
+
+Cell:207
+Aircraft:15
+Human:12
+Observation: 159
+Terminated
+Discounted return = 1, average = 0.968889
+Undiscounted return = 1, average = 0.968889
+Starting run 676 with 128 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 128
+
+Cell:84
+Aircraft:4
+Human:5
+Observation: 84
+
+Cell:101
+Aircraft:5
+Human:6
+Observation: 101
+
+Cell:118
+Aircraft:6
+Human:7
+Observation: 118
+
+Cell:186
+Aircraft:10
+Human:11
+Observation: 186
+
+Cell:171
+Aircraft:11
+Human:10
+Observation: 171
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 0.968935
+Undiscounted return = 1, average = 0.968935
+Starting run 677 with 128 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 64
+
+Cell:80
+Aircraft:0
+Human:5
+Observation: 80
+
+Cell:96
+Aircraft:0
+Human:6
+Observation: 96
+
+Cell:113
+Aircraft:1
+Human:7
+Observation: 113
+
+Cell:177
+Aircraft:1
+Human:11
+Observation: 177
+
+Cell:162
+Aircraft:2
+Human:10
+Observation: 162
+
+Cell:226
+Aircraft:2
+Human:14
+Observation: 210
+
+Cell:214
+Aircraft:6
+Human:13
+Observation: 214
+
+Cell:199
+Aircraft:7
+Human:12
+Observation: 135
+
+Cell:139
+Aircraft:11
+Human:8
+Observation: 203
+
+Cell:159
+Aircraft:15
+Human:9
+Observation: 159
+Terminated
+Discounted return = 1, average = 0.968981
+Undiscounted return = 1, average = 0.968981
+Starting run 678 with 128 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:132
+Aircraft:4
+Human:8
+Observation: 132
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 144
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:97
+Aircraft:1
+Human:6
+Observation: 97
+
+Cell:117
+Aircraft:5
+Human:7
+Observation: 117
+
+Cell:181
+Aircraft:5
+Human:11
+Observation: 181
+
+Cell:166
+Aircraft:6
+Human:10
+Observation: 166
+
+Cell:234
+Aircraft:10
+Human:14
+Observation: 234
+
+Cell:222
+Aircraft:14
+Human:13
+Observation: 222
+
+Cell:207
+Aircraft:15
+Human:12
+Observation: 159
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 958 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 224
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:98
+Aircraft:2
+Human:6
+Observation: 98
+
+Cell:115
+Aircraft:3
+Human:7
+Observation: 115
+
+Cell:183
+Aircraft:7
+Human:11
+Observation: 183
+
+Cell:171
+Aircraft:11
+Human:10
+Observation: 171
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 959 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 128
+
+Cell:80
+Aircraft:0
+Human:5
+Observation: 80
+
+Cell:97
+Aircraft:1
+Human:6
+Observation: 97
+
+Cell:114
+Aircraft:2
+Human:7
+Observation: 114
+
+Cell:179
+Aircraft:3
+Human:11
+Observation: 179
+
+Cell:167
+Aircraft:7
+Human:10
+Observation: 167
+
+Cell:235
+Aircraft:11
+Human:14
+Observation: 235
+
+Cell:223
+Aircraft:15
+Human:13
+Observation: 223
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 960 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 96
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:96
+Aircraft:0
+Human:6
+Observation: 96
+
+Cell:112
+Aircraft:0
+Human:7
+Observation: 112
+
+Cell:176
+Aircraft:0
+Human:11
+Observation: 240
+
+Cell:160
+Aircraft:0
+Human:10
+Observation: 208
+
+Cell:224
+Aircraft:0
+Human:14
+Observation: 144
+
+Cell:209
+Aircraft:1
+Human:13
+Observation: 209
+
+Cell:197
+Aircraft:5
+Human:12
+Observation: 197
+
+Cell:134
+Aircraft:6
+Human:8
+Observation: 134
+
+Cell:151
+Aircraft:7
+Human:9
+Observation: 151
+
+Cell:91
+Aircraft:11
+Human:5
+Observation: 91
+
+Cell:111
+Aircraft:15
+Human:6
+Observation: 31
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 961 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 208
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:98
+Aircraft:2
+Human:6
+Observation: 98
+
+Cell:118
+Aircraft:6
+Human:7
+Observation: 118
+
+Cell:183
+Aircraft:7
+Human:11
+Observation: 183
+
+Cell:171
+Aircraft:11
+Human:10
+Observation: 171
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 962 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:146
+Aircraft:2
+Human:9
+Observation: 146
+
+Cell:86
+Aircraft:6
+Human:5
+Observation: 86
+
+Cell:106
+Aircraft:10
+Human:6
+Observation: 106
+
+Cell:123
+Aircraft:11
+Human:7
+Observation: 123
+
+Cell:191
+Aircraft:15
+Human:11
+Observation: 191
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 963 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 144
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:98
+Aircraft:2
+Human:6
+Observation: 98
+
+Cell:115
+Aircraft:3
+Human:7
+Observation: 115
+
+Cell:183
+Aircraft:7
+Human:11
+Observation: 183
+
+Cell:171
+Aircraft:11
+Human:10
+Observation: 171
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 964 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:146
+Aircraft:2
+Human:9
+Observation: 146
+
+Cell:83
+Aircraft:3
+Human:5
+Observation: 83
+
+Cell:103
+Aircraft:7
+Human:6
+Observation: 103
+
+Cell:123
+Aircraft:11
+Human:7
+Observation: 123
+
+Cell:191
+Aircraft:15
+Human:11
+Observation: 191
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 965 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:145
+Aircraft:1
+Human:9
+Observation: 145
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:98
+Aircraft:2
+Human:6
+Observation: 98
+
+Cell:118
+Aircraft:6
+Human:7
+Observation: 118
+
+Cell:183
+Aircraft:7
+Human:11
+Observation: 183
+
+Cell:171
+Aircraft:11
+Human:10
+Observation: 171
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 966 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 208
+
+Cell:80
+Aircraft:0
+Human:5
+Observation: 80
+
+Cell:97
+Aircraft:1
+Human:6
+Observation: 97
+
+Cell:114
+Aircraft:2
+Human:7
+Observation: 114
+
+Cell:179
+Aircraft:3
+Human:11
+Observation: 179
+
+Cell:167
+Aircraft:7
+Human:10
+Observation: 167
+
+Cell:235
+Aircraft:11
+Human:14
+Observation: 235
+
+Cell:223
+Aircraft:15
+Human:13
+Observation: 223
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 967 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:144
+Aircraft:0
+Human:9
+Observation: 64
+
+Cell:80
+Aircraft:0
+Human:5
+Observation: 80
+
+Cell:97
+Aircraft:1
+Human:6
+Observation: 97
+
+Cell:114
+Aircraft:2
+Human:7
+Observation: 114
+
+Cell:179
+Aircraft:3
+Human:11
+Observation: 179
+
+Cell:167
+Aircraft:7
+Human:10
+Observation: 167
+
+Cell:235
+Aircraft:11
+Human:14
+Observation: 235
+
+Cell:223
+Aircraft:15
+Human:13
+Observation: 223
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 968 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:149
+Aircraft:5
+Human:9
+Observation: 149
+
+Cell:89
+Aircraft:9
+Human:5
+Observation: 89
+
+Cell:106
+Aircraft:10
+Human:6
+Observation: 106
+
+Cell:123
+Aircraft:11
+Human:7
+Observation: 123
+
+Cell:191
+Aircraft:15
+Human:11
+Observation: 191
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 969 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:145
+Aircraft:1
+Human:9
+Observation: 145
+
+Cell:82
+Aircraft:2
+Human:5
+Observation: 82
+
+Cell:98
+Aircraft:2
+Human:6
+Observation: 98
+
+Cell:118
+Aircraft:6
+Human:7
+Observation: 118
+
+Cell:186
+Aircraft:10
+Human:11
+Observation: 186
+
+Cell:174
+Aircraft:14
+Human:10
+Observation: 174
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 970 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:128
+Aircraft:0
+Human:8
+Observation: 128
+
+Cell:148
+Aircraft:4
+Human:9
+Observation: 148
+
+Cell:88
+Aircraft:8
+Human:5
+Observation: 88
+
+Cell:104
+Aircraft:8
+Human:6
+Observation: 104
+
+Cell:121
+Aircraft:9
+Human:7
+Observation: 121
+
+Cell:186
+Aircraft:10
+Human:11
+Observation: 186
+
+Cell:174
+Aircraft:14
+Human:10
+Observation: 174
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 971 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:132
+Aircraft:4
+Human:8
+Observation: 132
+
+Cell:152
+Aircraft:8
+Human:9
+Observation: 152
+
+Cell:89
+Aircraft:9
+Human:5
+Observation: 89
+
+Cell:106
+Aircraft:10
+Human:6
+Observation: 106
+
+Cell:123
+Aircraft:11
+Human:7
+Observation: 123
+
+Cell:191
+Aircraft:15
+Human:11
+Observation: 191
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 972 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:146
+Aircraft:2
+Human:9
+Observation: 146
+
+Cell:86
+Aircraft:6
+Human:5
+Observation: 86
+
+Cell:106
+Aircraft:10
+Human:6
+Observation: 106
+
+Cell:123
+Aircraft:11
+Human:7
+Observation: 123
+
+Cell:191
+Aircraft:15
+Human:11
+Observation: 191
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 973 with 512 simulations... 
+
+Cell:192
+Aircraft:0
+Human:12
+
+Cell:129
+Aircraft:1
+Human:8
+Observation: 129
+
+Cell:145
+Aircraft:1
+Human:9
+Observation: 145
+
+Cell:81
+Aircraft:1
+Human:5
+Observation: 81
+
+Cell:98
+Aircraft:2
+Human:6
+Observation: 98
+
+Cell:115
+Aircraft:3
+Human:7
+Observation: 115
+
+Cell:183
+Aircraft:7
+Human:11
+Observation: 183
+
+Cell:171
+Aircraft:11
+Human:10
+Observation: 171
+
+Cell:239
+Aircraft:15
+Human:14
+Observation: 239
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 974 with 512 simulations... 

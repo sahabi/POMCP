@@ -1,0 +1,359 @@
+Starting run 212 with 8192 simulations... 
+
+Cell:1080
+Aircraft:0
+Human:30
+Distance:5
+
+Cell:1117
+Aircraft:1
+Human:31
+Distance:5
+Observation: 36
+
+Cell:1154
+Aircraft:2
+Human:32
+Distance:5
+Observation: 36
+
+Cell:1191
+Aircraft:3
+Human:33
+Distance:5
+Observation: 36
+
+Cell:1233
+Aircraft:9
+Human:34
+Distance:5
+Observation: 36
+
+Cell:1270
+Aircraft:10
+Human:35
+Distance:5
+Observation: 36
+
+Cell:1276
+Aircraft:16
+Human:35
+Distance:4
+Observation: 36
+
+Cell:1277
+Aircraft:17
+Human:35
+Distance:3
+Observation: 36
+
+Cell:1067
+Aircraft:23
+Human:29
+Distance:1
+Observation: 29
+
+Cell:1073
+Aircraft:29
+Human:29
+Distance:0
+Observation: 29
+Terminated
+Discounted return = 0, average = 0.995283
+Undiscounted return = 0, average = 0.995283
+Starting run 323 with 8192 simulations... 
+
+Cell:1080
+Aircraft:0
+Human:30
+Distance:5
+
+Cell:1116
+Aircraft:0
+Human:31
+Distance:6
+Observation: 36
+
+Cell:900
+Aircraft:0
+Human:25
+Distance:5
+Observation: 36
+
+Cell:937
+Aircraft:1
+Human:26
+Distance:5
+Observation: 36
+
+Cell:974
+Aircraft:2
+Human:27
+Distance:5
+Observation: 36
+
+Cell:759
+Aircraft:3
+Human:21
+Distance:3
+Observation: 36
+
+Cell:760
+Aircraft:4
+Human:21
+Distance:4
+Observation: 36
+
+Cell:802
+Aircraft:10
+Human:22
+Distance:2
+Observation: 17
+
+Cell:1024
+Aircraft:16
+Human:28
+Distance:2
+Observation: 22
+
+Cell:1025
+Aircraft:17
+Human:28
+Distance:3
+Observation: 36
+
+Cell:1247
+Aircraft:23
+Human:34
+Distance:3
+Observation: 36
+
+Cell:1289
+Aircraft:29
+Human:35
+Distance:1
+Observation: 35
+
+Cell:1295
+Aircraft:35
+Human:35
+Distance:0
+Observation: 35
+Terminated
+Discounted return = 0, average = 0.993808
+Undiscounted return = 0, average = 0.993808
+Starting run 381 with 8192 simulations... 
+
+Cell:1080
+Aircraft:0
+Human:30
+Distance:5
+
+Cell:865
+Aircraft:1
+Human:24
+Distance:5
+Observation: 36
+
+Cell:902
+Aircraft:2
+Human:25
+Distance:5
+Observation: 36
+
+Cell:1119
+Aircraft:3
+Human:31
+Distance:7
+Observation: 36
+
+Cell:1156
+Aircraft:4
+Human:32
+Distance:7
+Observation: 36
+
+Cell:1198
+Aircraft:10
+Human:33
+Distance:5
+Observation: 36
+
+Cell:1240
+Aircraft:16
+Human:34
+Distance:3
+Observation: 36
+
+Cell:1282
+Aircraft:22
+Human:35
+Distance:3
+Observation: 36
+
+Cell:1067
+Aircraft:23
+Human:29
+Distance:1
+Observation: 29
+
+Cell:1073
+Aircraft:29
+Human:29
+Distance:0
+Observation: 29
+Terminated
+Discounted return = 0, average = 0.992126
+Undiscounted return = 0, average = 0.992126
+Starting run 718 with 8192 simulations... 
+
+Cell:1080
+Aircraft:0
+Human:30
+Distance:5
+
+Cell:865
+Aircraft:1
+Human:24
+Distance:5
+Observation: 36
+
+Cell:900
+Aircraft:0
+Human:25
+Distance:5
+Observation: 36
+
+Cell:685
+Aircraft:1
+Human:19
+Distance:3
+Observation: 36
+
+Cell:722
+Aircraft:2
+Human:20
+Distance:3
+Observation: 36
+
+Cell:939
+Aircraft:3
+Human:26
+Distance:5
+Observation: 36
+
+Cell:981
+Aircraft:9
+Human:27
+Distance:3
+Observation: 36
+
+Cell:1018
+Aircraft:10
+Human:28
+Distance:3
+Observation: 36
+
+Cell:1019
+Aircraft:11
+Human:28
+Distance:4
+Observation: 36
+
+Cell:1241
+Aircraft:17
+Human:34
+Distance:4
+Observation: 36
+
+Cell:1247
+Aircraft:23
+Human:34
+Distance:3
+Observation: 36
+
+Cell:1289
+Aircraft:29
+Human:35
+Distance:1
+Observation: 35
+
+Cell:1295
+Aircraft:35
+Human:35
+Distance:0
+Observation: 35
+Terminated
+Discounted return = 0, average = 0.994429
+Undiscounted return = 0, average = 0.994429
+Starting run 891 with 8192 simulations... 
+
+Cell:1080
+Aircraft:0
+Human:30
+Distance:5
+
+Cell:1117
+Aircraft:1
+Human:31
+Distance:5
+Observation: 36
+
+Cell:1154
+Aircraft:2
+Human:32
+Distance:5
+Observation: 36
+
+Cell:1191
+Aircraft:3
+Human:33
+Distance:5
+Observation: 36
+
+Cell:1228
+Aircraft:4
+Human:34
+Distance:5
+Observation: 36
+
+Cell:1018
+Aircraft:10
+Human:28
+Distance:3
+Observation: 36
+
+Cell:988
+Aircraft:16
+Human:27
+Distance:3
+Observation: 36
+
+Cell:1205
+Aircraft:17
+Human:33
+Distance:5
+Observation: 36
+
+Cell:1247
+Aircraft:23
+Human:34
+Distance:3
+Observation: 36
+
+Cell:1289
+Aircraft:29
+Human:35
+Distance:1
+Observation: 35
+
+Cell:1295
+Aircraft:35
+Human:35
+Distance:0
+Observation: 35
+Terminated
+Discounted return = 0, average = 0.994388
+Undiscounted return = 0, average = 0.994388
+
+

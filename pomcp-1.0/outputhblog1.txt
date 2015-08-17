@@ -1,0 +1,6971 @@
+
+Starting run 67 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02986 [0, 9]
+Rollout depth: 28.9803 [1, 271]
+Total reward: 0.954735 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04673 [0, 8]
+Rollout depth: 28.9983 [1, 284]
+Total reward: 0.95374 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06518 [0, 7]
+Rollout depth: 26.4867 [1, 266]
+Total reward: 0.965125 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06519 [0, 6]
+Rollout depth: 26.702 [1, 259]
+Total reward: 0.96601 [0, 1]
+
+Cell:253
+Aircraft:13
+Human:15
+Distance:2
+Observation: 15
+Tree depth: 1.02234 [0, 4]
+Rollout depth: 26.0811 [1, 375]
+Total reward: 0.91749 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.00565 [0, 3]
+Rollout depth: 28.7267 [1, 229]
+Total reward: 0.7514 [0, 1]
+
+Cell:255
+Aircraft:15
+Human:15
+Distance:0
+Observation: 15
+Terminated
+Discounted return = 0, average = 0.985075
+Undiscounted return = 0, average = 0.985075
+Starting run 97 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02506 [0, 9]
+Rollout depth: 29.5937 [1, 306]
+Total reward: 0.953955 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.0462 [0, 8]
+Rollout depth: 29.0786 [1, 326]
+Total reward: 0.954105 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06233 [0, 7]
+Rollout depth: 26.6945 [1, 303]
+Total reward: 0.96425 [0, 1]
+
+Cell:172
+Aircraft:12
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 2.06644 [0, 6]
+Rollout depth: 26.3123 [1, 252]
+Total reward: 0.96645 [0, 1]
+
+Cell:237
+Aircraft:13
+Human:14
+Distance:1
+Observation: 14
+Tree depth: 0.895215 [0, 5]
+Rollout depth: 26.616 [1, 252]
+Total reward: 0.7891 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.00361 [0, 3]
+Rollout depth: 24.5159 [1, 138]
+Total reward: 0.714445 [0, 1]
+
+Cell:255
+Aircraft:15
+Human:15
+Distance:0
+Observation: 15
+Terminated
+Discounted return = 0, average = 0.979381
+Undiscounted return = 0, average = 0.979381
+Starting run 194 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.06955 [0, 9]
+Rollout depth: 28.7466 [1, 323]
+Total reward: 0.928555 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.0942 [0, 8]
+Rollout depth: 28.0461 [1, 318]
+Total reward: 0.930615 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06075 [0, 7]
+Rollout depth: 27.1154 [1, 304]
+Total reward: 0.9633 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06217 [0, 6]
+Rollout depth: 26.1116 [1, 245]
+Total reward: 0.96612 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03732 [0, 5]
+Rollout depth: 26.212 [1, 246]
+Total reward: 0.986755 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.004655 [0, 3]
+Rollout depth: 27.3695 [1, 221]
+Total reward: 0.787585 [0, 1]
+
+Cell:255
+Aircraft:15
+Human:15
+Distance:0
+Observation: 15
+Terminated
+Discounted return = 0, average = 0.984536
+Undiscounted return = 0, average = 0.984536
+Starting run 275 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04793 [0, 9]
+Rollout depth: 29.5618 [1, 272]
+Total reward: 0.91801 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05009 [0, 8]
+Rollout depth: 28.3849 [1, 354]
+Total reward: 0.95784 [0, 1]
+
+Cell:184
+Aircraft:8
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 3.11288 [0, 7]
+Rollout depth: 27.16 [1, 332]
+Total reward: 0.939505 [0, 1]
+
+Cell:249
+Aircraft:9
+Human:15
+Distance:3
+Observation: 16
+Tree depth: 2.04496 [0, 6]
+Rollout depth: 27.0659 [1, 260]
+Total reward: 0.977925 [0, 1]
+
+Cell:253
+Aircraft:13
+Human:15
+Distance:2
+Observation: 10
+Tree depth: 1.0219 [0, 4]
+Rollout depth: 26.2745 [1, 239]
+Total reward: 0.828925 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.00583 [0, 4]
+Rollout depth: 28.215 [1, 177]
+Total reward: 0.7201 [0, 1]
+
+Cell:255
+Aircraft:15
+Human:15
+Distance:0
+Observation: 15
+Terminated
+Discounted return = 0, average = 0.985455
+Undiscounted return = 0, average = 0.985455
+Starting run 276 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00995 [0, 9]
+Rollout depth: 30.2626 [1, 321]
+Total reward: 0.9446 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.09119 [0, 8]
+Rollout depth: 28.1228 [1, 315]
+Total reward: 0.933025 [0, 1]
+
+Cell:184
+Aircraft:8
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 3.11331 [0, 7]
+Rollout depth: 27.4886 [1, 304]
+Total reward: 0.93618 [0, 1]
+
+Cell:249
+Aircraft:9
+Human:15
+Distance:3
+Observation: 16
+Tree depth: 2.04135 [0, 6]
+Rollout depth: 26.3053 [1, 285]
+Total reward: 0.97816 [0, 1]
+
+Cell:237
+Aircraft:13
+Human:14
+Distance:1
+Observation: 14
+Tree depth: 0.830565 [0, 5]
+Rollout depth: 28.0108 [1, 261]
+Total reward: 0.70243 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.001255 [0, 2]
+Rollout depth: 31.7762 [1, 125]
+Total reward: 0.9995 [0, 1]
+
+Cell:239
+Aircraft:15
+Human:14
+Distance:1
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.985507
+Undiscounted return = 1, average = 0.985507
+Starting run 277 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04578 [0, 9]
+Rollout depth: 29.6466 [1, 314]
+Total reward: 0.920185 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.09899 [0, 8]
+Rollout depth: 27.7966 [1, 301]
+Total reward: 0.93102 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06352 [0, 7]
+Rollout depth: 26.4832 [1, 274]
+Total reward: 0.96324 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06514 [0, 6]
+Rollout depth: 25.7734 [1, 264]
+Total reward: 0.96651 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.0372 [0, 5]
+Rollout depth: 25.3047 [1, 267]
+Total reward: 0.986645 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.022725 [0, 4]
+Rollout depth: 25.4664 [1, 189]
+Total reward: 0.998455 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98556
+Undiscounted return = 1, average = 0.98556
+Starting run 278 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.9952 [0, 9]
+Rollout depth: 30.7409 [1, 388]
+Total reward: 0.94283 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04971 [0, 8]
+Rollout depth: 28.1419 [1, 304]
+Total reward: 0.95675 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06043 [0, 7]
+Rollout depth: 27.0736 [1, 279]
+Total reward: 0.96374 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06534 [0, 6]
+Rollout depth: 26.1433 [1, 260]
+Total reward: 0.96662 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03265 [0, 5]
+Rollout depth: 25.2438 [1, 206]
+Total reward: 0.986755 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.020055 [0, 4]
+Rollout depth: 26.2801 [1, 237]
+Total reward: 0.998515 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985612
+Undiscounted return = 1, average = 0.985612
+Starting run 279 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02876 [0, 9]
+Rollout depth: 29.4053 [1, 259]
+Total reward: 0.955085 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04793 [0, 8]
+Rollout depth: 27.8905 [1, 272]
+Total reward: 0.95719 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.064 [0, 7]
+Rollout depth: 26.8878 [1, 290]
+Total reward: 0.963365 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06242 [0, 5]
+Rollout depth: 26.9907 [1, 302]
+Total reward: 0.96582 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03524 [0, 5]
+Rollout depth: 25.7188 [1, 291]
+Total reward: 0.986075 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.030565 [0, 4]
+Rollout depth: 23.6291 [1, 194]
+Total reward: 0.99825 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985663
+Undiscounted return = 1, average = 0.985663
+Starting run 280 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01232 [0, 9]
+Rollout depth: 29.8407 [1, 308]
+Total reward: 0.949465 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05295 [0, 8]
+Rollout depth: 27.4152 [1, 302]
+Total reward: 0.958895 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.11123 [0, 7]
+Rollout depth: 27.3505 [1, 294]
+Total reward: 0.937415 [0, 1]
+
+Cell:57
+Aircraft:9
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 2.04437 [0, 6]
+Rollout depth: 26.0512 [1, 329]
+Total reward: 0.978395 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03401 [0, 5]
+Rollout depth: 26.9408 [1, 255]
+Total reward: 0.987715 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.019525 [0, 4]
+Rollout depth: 23.5641 [1, 179]
+Total reward: 0.99855 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985714
+Undiscounted return = 1, average = 0.985714
+Starting run 281 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.0044 [0, 9]
+Rollout depth: 30.094 [1, 314]
+Total reward: 0.94609 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05208 [0, 8]
+Rollout depth: 27.4917 [1, 310]
+Total reward: 0.963575 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06912 [0, 7]
+Rollout depth: 27.105 [1, 348]
+Total reward: 0.962465 [0, 1]
+
+Cell:92
+Aircraft:12
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 2.06326 [0, 6]
+Rollout depth: 26.1275 [1, 230]
+Total reward: 0.966265 [0, 1]
+
+Cell:77
+Aircraft:13
+Human:4
+Distance:3
+Observation: 16
+Tree depth: 1.0355 [0, 5]
+Rollout depth: 25.5362 [1, 219]
+Total reward: 0.9861 [0, 1]
+
+Cell:142
+Aircraft:14
+Human:8
+Distance:3
+Observation: 16
+Tree depth: 0.017935 [0, 4]
+Rollout depth: 23.1315 [1, 187]
+Total reward: 0.998555 [0, 1]
+
+Cell:79
+Aircraft:15
+Human:4
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985765
+Undiscounted return = 1, average = 0.985765
+Starting run 282 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.0204 [0, 9]
+Rollout depth: 29.6333 [1, 314]
+Total reward: 0.95361 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05477 [0, 8]
+Rollout depth: 27.0282 [1, 334]
+Total reward: 0.963795 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.11023 [0, 7]
+Rollout depth: 27.6251 [1, 299]
+Total reward: 0.93772 [0, 1]
+
+Cell:57
+Aircraft:9
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 2.03557 [0, 6]
+Rollout depth: 27.6412 [1, 263]
+Total reward: 0.978155 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03268 [0, 5]
+Rollout depth: 26.1461 [1, 209]
+Total reward: 0.9877 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 11
+Tree depth: 0.01045 [0, 4]
+Rollout depth: 26.0287 [1, 207]
+Total reward: 0.99887 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985816
+Undiscounted return = 1, average = 0.985816
+Starting run 283 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.9948 [0, 9]
+Rollout depth: 30.0378 [1, 332]
+Total reward: 0.94541 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04489 [0, 8]
+Rollout depth: 28.3317 [1, 327]
+Total reward: 0.95872 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.10521 [0, 7]
+Rollout depth: 27.0222 [1, 308]
+Total reward: 0.93955 [0, 1]
+
+Cell:121
+Aircraft:9
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 2.03557 [0, 6]
+Rollout depth: 26.608 [1, 267]
+Total reward: 0.97892 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.0302 [0, 5]
+Rollout depth: 27.092 [1, 250]
+Total reward: 0.98789 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.022415 [0, 4]
+Rollout depth: 26.1937 [1, 208]
+Total reward: 0.99847 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985866
+Undiscounted return = 1, average = 0.985866
+Starting run 284 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.07188 [0, 9]
+Rollout depth: 28.4044 [1, 411]
+Total reward: 0.92925 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04674 [0, 8]
+Rollout depth: 27.4947 [1, 279]
+Total reward: 0.96057 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.11076 [0, 7]
+Rollout depth: 27.4561 [1, 402]
+Total reward: 0.937085 [0, 1]
+
+Cell:41
+Aircraft:9
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 2.04196 [0, 6]
+Rollout depth: 27.6349 [1, 266]
+Total reward: 0.978875 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03668 [0, 5]
+Rollout depth: 25.9883 [1, 235]
+Total reward: 0.98731 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.01559 [0, 4]
+Rollout depth: 25.4643 [1, 218]
+Total reward: 0.99863 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985915
+Undiscounted return = 1, average = 0.985915
+Starting run 285 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04482 [0, 9]
+Rollout depth: 29.3052 [1, 302]
+Total reward: 0.916185 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.09395 [0, 8]
+Rollout depth: 28.1023 [1, 293]
+Total reward: 0.933285 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06256 [0, 7]
+Rollout depth: 27.0271 [1, 244]
+Total reward: 0.963495 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06707 [0, 6]
+Rollout depth: 26.2353 [1, 269]
+Total reward: 0.965925 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03475 [0, 5]
+Rollout depth: 25.1228 [1, 269]
+Total reward: 0.986575 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 6
+Tree depth: 0.012475 [0, 4]
+Rollout depth: 22.6967 [1, 179]
+Total reward: 0.998785 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.985965
+Undiscounted return = 1, average = 0.985965
+Starting run 286 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00029 [0, 9]
+Rollout depth: 30.9501 [1, 393]
+Total reward: 0.946615 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.09402 [0, 8]
+Rollout depth: 28.2206 [1, 330]
+Total reward: 0.93034 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.10335 [0, 7]
+Rollout depth: 27.567 [1, 276]
+Total reward: 0.9393 [0, 1]
+
+Cell:121
+Aircraft:9
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 2.03329 [0, 6]
+Rollout depth: 26.942 [1, 332]
+Total reward: 0.979445 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03656 [0, 5]
+Rollout depth: 24.6905 [1, 215]
+Total reward: 0.98791 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.026545 [0, 4]
+Rollout depth: 25.1143 [1, 196]
+Total reward: 0.998355 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986014
+Undiscounted return = 1, average = 0.986014
+Starting run 287 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.97295 [0, 9]
+Rollout depth: 31.3276 [1, 343]
+Total reward: 0.93459 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05324 [0, 8]
+Rollout depth: 28.1548 [1, 273]
+Total reward: 0.960915 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06479 [0, 7]
+Rollout depth: 26.492 [1, 339]
+Total reward: 0.963935 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.07417 [0, 6]
+Rollout depth: 26.2741 [1, 298]
+Total reward: 0.96566 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03781 [0, 5]
+Rollout depth: 24.9568 [1, 224]
+Total reward: 0.98701 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 15
+Tree depth: 0.004835 [0, 3]
+Rollout depth: 25.3241 [1, 242]
+Total reward: 0.790825 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.986063
+Undiscounted return = 1, average = 0.986063
+Starting run 288 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01007 [0, 9]
+Rollout depth: 30.297 [1, 302]
+Total reward: 0.945355 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05709 [0, 8]
+Rollout depth: 28.1182 [1, 313]
+Total reward: 0.95987 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06362 [0, 7]
+Rollout depth: 26.6668 [1, 254]
+Total reward: 0.96424 [0, 1]
+
+Cell:28
+Aircraft:12
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 2.06727 [0, 6]
+Rollout depth: 25.593 [1, 264]
+Total reward: 0.966715 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03203 [0, 5]
+Rollout depth: 25.6474 [1, 239]
+Total reward: 0.98696 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 9
+Tree depth: 0.03405 [0, 4]
+Rollout depth: 23.9908 [1, 196]
+Total reward: 0.99812 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986111
+Undiscounted return = 1, average = 0.986111
+Starting run 289 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04652 [0, 9]
+Rollout depth: 29.6998 [1, 346]
+Total reward: 0.91821 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05821 [0, 8]
+Rollout depth: 27.872 [1, 314]
+Total reward: 0.961015 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.0633 [0, 7]
+Rollout depth: 27.002 [1, 316]
+Total reward: 0.962905 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.07067 [0, 6]
+Rollout depth: 26.0291 [1, 295]
+Total reward: 0.96622 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03691 [0, 5]
+Rollout depth: 25.1454 [1, 252]
+Total reward: 0.986425 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.01894 [0, 4]
+Rollout depth: 23.3343 [1, 167]
+Total reward: 0.99857 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.986159
+Undiscounted return = 1, average = 0.986159
+Starting run 290 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.07936 [0, 9]
+Rollout depth: 28.7273 [1, 326]
+Total reward: 0.92751 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.10345 [0, 8]
+Rollout depth: 27.5232 [1, 323]
+Total reward: 0.93221 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06041 [0, 7]
+Rollout depth: 26.3668 [1, 341]
+Total reward: 0.96478 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06764 [0, 6]
+Rollout depth: 26.3672 [1, 331]
+Total reward: 0.96588 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.02912 [0, 5]
+Rollout depth: 26.7741 [1, 239]
+Total reward: 0.98681 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 6
+Tree depth: 0.01221 [0, 4]
+Rollout depth: 24.1706 [1, 219]
+Total reward: 0.99881 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 10
+Terminated
+Discounted return = 1, average = 0.986207
+Undiscounted return = 1, average = 0.986207
+Starting run 291 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04003 [0, 9]
+Rollout depth: 28.5126 [1, 300]
+Total reward: 0.955665 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.09242 [0, 8]
+Rollout depth: 27.9141 [1, 340]
+Total reward: 0.934035 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.10576 [0, 7]
+Rollout depth: 27.697 [1, 379]
+Total reward: 0.938325 [0, 1]
+
+Cell:25
+Aircraft:9
+Human:1
+Distance:2
+Observation: 5
+Tree depth: 2.06299 [0, 6]
+Rollout depth: 25.4502 [1, 319]
+Total reward: 0.987955 [0, 1]
+
+Cell:13
+Aircraft:13
+Human:0
+Distance:4
+Observation: 16
+Tree depth: 1.04208 [0, 6]
+Rollout depth: 24.9 [1, 202]
+Total reward: 0.995275 [0, 1]
+
+Cell:14
+Aircraft:14
+Human:0
+Distance:5
+Observation: 16
+Tree depth: 0.01903 [0, 4]
+Rollout depth: 25.4877 [1, 233]
+Total reward: 0.998575 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986254
+Undiscounted return = 1, average = 0.986254
+Starting run 292 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00812 [0, 9]
+Rollout depth: 30.5681 [1, 346]
+Total reward: 0.945475 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.06019 [0, 8]
+Rollout depth: 27.6648 [1, 288]
+Total reward: 0.96161 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06093 [0, 7]
+Rollout depth: 26.171 [1, 296]
+Total reward: 0.96489 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06801 [0, 6]
+Rollout depth: 26.6542 [1, 244]
+Total reward: 0.96581 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.02949 [0, 5]
+Rollout depth: 25.825 [1, 251]
+Total reward: 0.986965 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.020385 [0, 4]
+Rollout depth: 25.1559 [1, 198]
+Total reward: 0.998485 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986301
+Undiscounted return = 1, average = 0.986301
+Starting run 293 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04037 [0, 9]
+Rollout depth: 29.5663 [1, 372]
+Total reward: 0.91691 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04899 [0, 8]
+Rollout depth: 28.5478 [1, 315]
+Total reward: 0.95854 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06193 [0, 7]
+Rollout depth: 26.6417 [1, 286]
+Total reward: 0.963645 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06631 [0, 6]
+Rollout depth: 25.7393 [1, 297]
+Total reward: 0.96709 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03009 [0, 5]
+Rollout depth: 25.7968 [1, 325]
+Total reward: 0.987115 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.001545 [0, 2]
+Rollout depth: 25.3354 [1, 141]
+Total reward: 0.99945 [0, 1]
+
+Cell:239
+Aircraft:15
+Human:14
+Distance:1
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.986348
+Undiscounted return = 1, average = 0.986348
+Starting run 294 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01656 [0, 9]
+Rollout depth: 30.0071 [1, 257]
+Total reward: 0.945265 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05998 [0, 8]
+Rollout depth: 27.4938 [1, 303]
+Total reward: 0.96092 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.12014 [0, 7]
+Rollout depth: 26.933 [1, 319]
+Total reward: 0.937125 [0, 1]
+
+Cell:169
+Aircraft:9
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 2.03631 [0, 5]
+Rollout depth: 26.2432 [1, 336]
+Total reward: 0.918165 [0, 1]
+
+Cell:237
+Aircraft:13
+Human:14
+Distance:1
+Observation: 14
+Tree depth: 0.83108 [0, 4]
+Rollout depth: 26.3443 [1, 263]
+Total reward: 0.726985 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.009845 [0, 4]
+Rollout depth: 29.1237 [1, 191]
+Total reward: 0.69154 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.986395
+Undiscounted return = 1, average = 0.986395
+Starting run 295 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01353 [0, 9]
+Rollout depth: 29.6917 [1, 319]
+Total reward: 0.951045 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05188 [0, 8]
+Rollout depth: 27.6321 [1, 265]
+Total reward: 0.96048 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.0579 [0, 7]
+Rollout depth: 26.9343 [1, 317]
+Total reward: 0.96264 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06672 [0, 6]
+Rollout depth: 26.0319 [1, 340]
+Total reward: 0.966235 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03341 [0, 5]
+Rollout depth: 27.3419 [1, 248]
+Total reward: 0.98618 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.02796 [0, 4]
+Rollout depth: 24.4361 [1, 179]
+Total reward: 0.99832 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986441
+Undiscounted return = 1, average = 0.986441
+Starting run 296 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00522 [0, 9]
+Rollout depth: 30.4896 [1, 323]
+Total reward: 0.94817 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.09187 [0, 8]
+Rollout depth: 28.3829 [1, 306]
+Total reward: 0.933005 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06751 [0, 7]
+Rollout depth: 26.682 [1, 259]
+Total reward: 0.964545 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06733 [0, 6]
+Rollout depth: 26.488 [1, 267]
+Total reward: 0.96605 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03246 [0, 5]
+Rollout depth: 26.5402 [1, 291]
+Total reward: 0.98659 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 6
+Tree depth: 0.008565 [0, 3]
+Rollout depth: 25.882 [1, 210]
+Total reward: 0.998935 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.986486
+Undiscounted return = 1, average = 0.986486
+Starting run 297 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02197 [0, 9]
+Rollout depth: 28.7396 [1, 273]
+Total reward: 0.952535 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04567 [0, 8]
+Rollout depth: 27.8534 [1, 254]
+Total reward: 0.96045 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.11151 [0, 7]
+Rollout depth: 27.774 [1, 390]
+Total reward: 0.936535 [0, 1]
+
+Cell:25
+Aircraft:9
+Human:1
+Distance:2
+Observation: 1
+Tree depth: 2.0655 [0, 7]
+Rollout depth: 25.7284 [1, 281]
+Total reward: 0.994135 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.05569 [0, 5]
+Rollout depth: 25.7332 [1, 203]
+Total reward: 0.994945 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.06291 [0, 4]
+Rollout depth: 24.8769 [1, 335]
+Total reward: 0.997655 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986532
+Undiscounted return = 1, average = 0.986532
+Starting run 298 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00239 [0, 9]
+Rollout depth: 30.2471 [1, 351]
+Total reward: 0.94847 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.10568 [0, 8]
+Rollout depth: 27.58 [1, 263]
+Total reward: 0.930255 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06336 [0, 7]
+Rollout depth: 26.952 [1, 353]
+Total reward: 0.964305 [0, 1]
+
+Cell:92
+Aircraft:12
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 2.06276 [0, 6]
+Rollout depth: 26.2599 [1, 266]
+Total reward: 0.965825 [0, 1]
+
+Cell:77
+Aircraft:13
+Human:4
+Distance:3
+Observation: 16
+Tree depth: 1.03171 [0, 5]
+Rollout depth: 26.3604 [1, 269]
+Total reward: 0.986835 [0, 1]
+
+Cell:78
+Aircraft:14
+Human:4
+Distance:4
+Observation: 16
+Tree depth: 0.02533 [0, 4]
+Rollout depth: 26.0352 [1, 218]
+Total reward: 0.99836 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986577
+Undiscounted return = 1, average = 0.986577
+Starting run 299 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01117 [0, 9]
+Rollout depth: 30.6318 [1, 326]
+Total reward: 0.94948 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.09178 [0, 8]
+Rollout depth: 28.1492 [1, 307]
+Total reward: 0.933825 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06457 [0, 7]
+Rollout depth: 27.029 [1, 337]
+Total reward: 0.964155 [0, 1]
+
+Cell:12
+Aircraft:12
+Human:0
+Distance:3
+Observation: 16
+Tree depth: 2.06637 [0, 6]
+Rollout depth: 25.4575 [1, 293]
+Total reward: 0.966095 [0, 1]
+
+Cell:13
+Aircraft:13
+Human:0
+Distance:4
+Observation: 16
+Tree depth: 1.03945 [0, 5]
+Rollout depth: 25.7279 [1, 311]
+Total reward: 0.98684 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.0229 [0, 4]
+Rollout depth: 24.4401 [1, 236]
+Total reward: 0.998425 [0, 1]
+
+Cell:15
+Aircraft:15
+Human:0
+Distance:6
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986622
+Undiscounted return = 1, average = 0.986622
+Starting run 300 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99538 [0, 9]
+Rollout depth: 30.3042 [1, 275]
+Total reward: 0.945615 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05196 [0, 8]
+Rollout depth: 27.9434 [1, 245]
+Total reward: 0.95889 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.10786 [0, 7]
+Rollout depth: 27.2658 [1, 338]
+Total reward: 0.9382 [0, 1]
+
+Cell:25
+Aircraft:9
+Human:1
+Distance:2
+Observation: 6
+Tree depth: 2.07139 [0, 6]
+Rollout depth: 26.0284 [1, 293]
+Total reward: 0.963125 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.06747 [0, 5]
+Rollout depth: 25.7767 [1, 189]
+Total reward: 0.98496 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.030965 [0, 5]
+Rollout depth: 25.6012 [1, 250]
+Total reward: 0.99823 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986667
+Undiscounted return = 1, average = 0.986667
+Starting run 301 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02529 [0, 9]
+Rollout depth: 29.6227 [1, 329]
+Total reward: 0.95018 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04864 [0, 8]
+Rollout depth: 28.7576 [1, 345]
+Total reward: 0.956245 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.10483 [0, 7]
+Rollout depth: 27.2484 [1, 260]
+Total reward: 0.93992 [0, 1]
+
+Cell:89
+Aircraft:9
+Human:5
+Distance:1
+Observation: 5
+Tree depth: 2.06069 [0, 6]
+Rollout depth: 25.3443 [1, 248]
+Total reward: 0.987985 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03251 [0, 5]
+Rollout depth: 24.9002 [1, 245]
+Total reward: 0.995615 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 10
+Tree depth: 0.001775 [0, 3]
+Rollout depth: 29.164 [1, 216]
+Total reward: 0.999425 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 7
+Terminated
+Discounted return = 1, average = 0.986711
+Undiscounted return = 1, average = 0.986711
+Starting run 302 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.03429 [0, 9]
+Rollout depth: 28.4813 [1, 313]
+Total reward: 0.95452 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05376 [0, 8]
+Rollout depth: 27.2897 [1, 298]
+Total reward: 0.96062 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.05984 [0, 7]
+Rollout depth: 26.8546 [1, 282]
+Total reward: 0.96483 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.07053 [0, 6]
+Rollout depth: 25.9869 [1, 350]
+Total reward: 0.96585 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.02984 [0, 5]
+Rollout depth: 26.281 [1, 236]
+Total reward: 0.986965 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.01541 [0, 4]
+Rollout depth: 24.261 [1, 190]
+Total reward: 0.99867 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986755
+Undiscounted return = 1, average = 0.986755
+Starting run 303 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00759 [0, 9]
+Rollout depth: 30.5815 [1, 450]
+Total reward: 0.94492 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05559 [0, 8]
+Rollout depth: 27.5869 [1, 303]
+Total reward: 0.9604 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.05905 [0, 7]
+Rollout depth: 25.6049 [1, 286]
+Total reward: 0.965025 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06172 [0, 6]
+Rollout depth: 26.1882 [1, 278]
+Total reward: 0.965805 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03388 [0, 5]
+Rollout depth: 26.2628 [1, 199]
+Total reward: 0.986965 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 11
+Tree depth: 0.00887 [0, 3]
+Rollout depth: 27.0668 [1, 197]
+Total reward: 0.998925 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986799
+Undiscounted return = 1, average = 0.986799
+Starting run 304 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99889 [0, 9]
+Rollout depth: 30.5287 [1, 382]
+Total reward: 0.944085 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.10506 [0, 8]
+Rollout depth: 27.3875 [1, 354]
+Total reward: 0.931065 [0, 1]
+
+Cell:184
+Aircraft:8
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 3.06617 [0, 7]
+Rollout depth: 26.9839 [1, 279]
+Total reward: 0.964505 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.0677 [0, 6]
+Rollout depth: 25.8763 [1, 267]
+Total reward: 0.965835 [0, 1]
+
+Cell:173
+Aircraft:13
+Human:10
+Distance:2
+Observation: 15
+Tree depth: 1.02054 [0, 4]
+Rollout depth: 25.7708 [1, 235]
+Total reward: 0.918795 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 15
+Tree depth: 0.00683 [0, 4]
+Rollout depth: 26.4267 [1, 219]
+Total reward: 0.753165 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.986842
+Undiscounted return = 1, average = 0.986842
+Starting run 305 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04868 [0, 9]
+Rollout depth: 29.5817 [1, 310]
+Total reward: 0.92361 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05062 [0, 8]
+Rollout depth: 28.3951 [1, 303]
+Total reward: 0.95614 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06706 [0, 7]
+Rollout depth: 26.4965 [1, 237]
+Total reward: 0.962965 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06596 [0, 6]
+Rollout depth: 25.9541 [1, 264]
+Total reward: 0.96598 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.033 [0, 5]
+Rollout depth: 25.8141 [1, 265]
+Total reward: 0.986865 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.025715 [0, 4]
+Rollout depth: 25.1387 [1, 247]
+Total reward: 0.998375 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986885
+Undiscounted return = 1, average = 0.986885
+Starting run 306 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.03045 [0, 9]
+Rollout depth: 29.6218 [1, 332]
+Total reward: 0.95454 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.09577 [0, 8]
+Rollout depth: 28.0538 [1, 285]
+Total reward: 0.934415 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.05941 [0, 7]
+Rollout depth: 27.092 [1, 262]
+Total reward: 0.96111 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06841 [0, 6]
+Rollout depth: 26.6809 [1, 325]
+Total reward: 0.96616 [0, 1]
+
+Cell:173
+Aircraft:13
+Human:10
+Distance:2
+Observation: 14
+Tree depth: 0.889265 [0, 4]
+Rollout depth: 25.6864 [1, 241]
+Total reward: 0.78753 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 14
+Tree depth: 0.007105 [0, 4]
+Rollout depth: 25.1937 [1, 179]
+Total reward: 0.999095 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.986928
+Undiscounted return = 1, average = 0.986928
+Starting run 307 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.98999 [0, 9]
+Rollout depth: 30.7837 [1, 336]
+Total reward: 0.941405 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05763 [0, 8]
+Rollout depth: 27.1866 [1, 246]
+Total reward: 0.96187 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06777 [0, 7]
+Rollout depth: 26.3158 [1, 325]
+Total reward: 0.96467 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06577 [0, 6]
+Rollout depth: 26.7403 [1, 229]
+Total reward: 0.96567 [0, 1]
+
+Cell:93
+Aircraft:13
+Human:5
+Distance:2
+Observation: 5
+Tree depth: 1.05172 [0, 5]
+Rollout depth: 24.6433 [1, 217]
+Total reward: 0.994605 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.08968 [0, 4]
+Rollout depth: 23.9799 [1, 191]
+Total reward: 0.9973 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.986971
+Undiscounted return = 1, average = 0.986971
+Starting run 308 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01338 [0, 9]
+Rollout depth: 30.3528 [1, 332]
+Total reward: 0.94663 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05126 [0, 8]
+Rollout depth: 28.1623 [1, 300]
+Total reward: 0.95747 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06404 [0, 7]
+Rollout depth: 27.3384 [1, 279]
+Total reward: 0.963005 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06816 [0, 6]
+Rollout depth: 26.0749 [1, 267]
+Total reward: 0.96542 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03286 [0, 5]
+Rollout depth: 25.1517 [1, 226]
+Total reward: 0.986905 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.024965 [0, 4]
+Rollout depth: 24.9435 [1, 295]
+Total reward: 0.998345 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987013
+Undiscounted return = 1, average = 0.987013
+Starting run 309 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99931 [0, 9]
+Rollout depth: 30.4234 [1, 255]
+Total reward: 0.943415 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05575 [0, 8]
+Rollout depth: 27.6241 [1, 344]
+Total reward: 0.960455 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06696 [0, 7]
+Rollout depth: 26.9384 [1, 315]
+Total reward: 0.964155 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06428 [0, 6]
+Rollout depth: 26.0883 [1, 283]
+Total reward: 0.96594 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.03874 [0, 5]
+Rollout depth: 26.3505 [1, 237]
+Total reward: 0.9865 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.019435 [0, 4]
+Rollout depth: 24.6268 [1, 236]
+Total reward: 0.998535 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987055
+Undiscounted return = 1, average = 0.987055
+Starting run 310 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01553 [0, 9]
+Rollout depth: 29.5887 [1, 340]
+Total reward: 0.95023 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05555 [0, 8]
+Rollout depth: 27.657 [1, 282]
+Total reward: 0.96143 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06301 [0, 7]
+Rollout depth: 27.059 [1, 272]
+Total reward: 0.962935 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.0729 [0, 6]
+Rollout depth: 26.2687 [1, 245]
+Total reward: 0.964825 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03256 [0, 5]
+Rollout depth: 26.201 [1, 256]
+Total reward: 0.98653 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.016355 [0, 4]
+Rollout depth: 24.8096 [1, 211]
+Total reward: 0.99866 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987097
+Undiscounted return = 1, average = 0.987097
+Starting run 311 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00146 [0, 9]
+Rollout depth: 30.7318 [1, 304]
+Total reward: 0.94331 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05478 [0, 8]
+Rollout depth: 27.9715 [1, 296]
+Total reward: 0.95849 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06338 [0, 7]
+Rollout depth: 26.5188 [1, 262]
+Total reward: 0.9644 [0, 1]
+
+Cell:172
+Aircraft:12
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 2.06345 [0, 6]
+Rollout depth: 26.4987 [1, 241]
+Total reward: 0.966015 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03587 [0, 5]
+Rollout depth: 26.2093 [1, 271]
+Total reward: 0.98702 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.019835 [0, 4]
+Rollout depth: 24.4617 [1, 201]
+Total reward: 0.998535 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987138
+Undiscounted return = 1, average = 0.987138
+Starting run 312 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04405 [0, 9]
+Rollout depth: 29.2079 [1, 389]
+Total reward: 0.920225 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.06157 [0, 8]
+Rollout depth: 28.1895 [1, 295]
+Total reward: 0.959855 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.10316 [0, 7]
+Rollout depth: 27.2082 [1, 361]
+Total reward: 0.93925 [0, 1]
+
+Cell:121
+Aircraft:9
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 2.04021 [0, 6]
+Rollout depth: 26.7756 [1, 218]
+Total reward: 0.97788 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03462 [0, 5]
+Rollout depth: 26.3769 [1, 287]
+Total reward: 0.98765 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 9
+Tree depth: 0.04238 [0, 4]
+Rollout depth: 24.6663 [1, 187]
+Total reward: 0.997945 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 10
+Terminated
+Discounted return = 1, average = 0.987179
+Undiscounted return = 1, average = 0.987179
+Starting run 313 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.98818 [0, 9]
+Rollout depth: 30.5246 [1, 499]
+Total reward: 0.942645 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04816 [0, 8]
+Rollout depth: 28.3077 [1, 251]
+Total reward: 0.959395 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06363 [0, 7]
+Rollout depth: 26.5554 [1, 234]
+Total reward: 0.964605 [0, 1]
+
+Cell:92
+Aircraft:12
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 2.06126 [0, 6]
+Rollout depth: 25.9597 [1, 273]
+Total reward: 0.966195 [0, 1]
+
+Cell:93
+Aircraft:13
+Human:5
+Distance:2
+Observation: 5
+Tree depth: 1.05247 [0, 5]
+Rollout depth: 25.648 [1, 234]
+Total reward: 0.994595 [0, 1]
+
+Cell:78
+Aircraft:14
+Human:4
+Distance:4
+Observation: 16
+Tree depth: 0.06264 [0, 4]
+Rollout depth: 25.5609 [1, 296]
+Total reward: 0.997655 [0, 1]
+
+Cell:15
+Aircraft:15
+Human:0
+Distance:6
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98722
+Undiscounted return = 1, average = 0.98722
+Starting run 314 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00966 [0, 9]
+Rollout depth: 30.4909 [1, 292]
+Total reward: 0.94619 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05066 [0, 8]
+Rollout depth: 28.2705 [1, 310]
+Total reward: 0.960505 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06195 [0, 7]
+Rollout depth: 26.6732 [1, 273]
+Total reward: 0.96411 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06346 [0, 6]
+Rollout depth: 26.4369 [1, 262]
+Total reward: 0.965585 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03302 [0, 5]
+Rollout depth: 26.1038 [1, 257]
+Total reward: 0.98687 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.03172 [0, 4]
+Rollout depth: 25.7861 [1, 330]
+Total reward: 0.99816 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987261
+Undiscounted return = 1, average = 0.987261
+Starting run 315 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.0192 [0, 9]
+Rollout depth: 29.6805 [1, 317]
+Total reward: 0.94966 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05167 [0, 8]
+Rollout depth: 27.3233 [1, 308]
+Total reward: 0.959985 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06462 [0, 7]
+Rollout depth: 26.7961 [1, 266]
+Total reward: 0.96376 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06682 [0, 6]
+Rollout depth: 26.3608 [1, 318]
+Total reward: 0.965605 [0, 1]
+
+Cell:93
+Aircraft:13
+Human:5
+Distance:2
+Observation: 10
+Tree depth: 1.04202 [0, 5]
+Rollout depth: 26.6855 [1, 256]
+Total reward: 0.950485 [0, 1]
+
+Cell:78
+Aircraft:14
+Human:4
+Distance:4
+Observation: 16
+Tree depth: 0.103675 [0, 5]
+Rollout depth: 24.056 [1, 235]
+Total reward: 0.99714 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987302
+Undiscounted return = 1, average = 0.987302
+Starting run 316 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99731 [0, 9]
+Rollout depth: 30.8111 [1, 357]
+Total reward: 0.945535 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04348 [0, 8]
+Rollout depth: 28.6 [1, 416]
+Total reward: 0.95641 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.10493 [0, 7]
+Rollout depth: 27.5618 [1, 267]
+Total reward: 0.93856 [0, 1]
+
+Cell:41
+Aircraft:9
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 2.03306 [0, 6]
+Rollout depth: 26.7991 [1, 236]
+Total reward: 0.978805 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03345 [0, 5]
+Rollout depth: 24.904 [1, 214]
+Total reward: 0.987565 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.01988 [0, 4]
+Rollout depth: 24.4755 [1, 213]
+Total reward: 0.99855 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987342
+Undiscounted return = 1, average = 0.987342
+Starting run 317 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04334 [0, 9]
+Rollout depth: 29.5837 [1, 392]
+Total reward: 0.91658 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04689 [0, 8]
+Rollout depth: 28.1095 [1, 337]
+Total reward: 0.95982 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06224 [0, 7]
+Rollout depth: 26.9251 [1, 284]
+Total reward: 0.96441 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.0652 [0, 6]
+Rollout depth: 25.7555 [1, 301]
+Total reward: 0.96611 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.0372 [0, 5]
+Rollout depth: 25.4377 [1, 291]
+Total reward: 0.98659 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.01612 [0, 4]
+Rollout depth: 25.6974 [1, 188]
+Total reward: 0.99868 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987382
+Undiscounted return = 1, average = 0.987382
+Starting run 318 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02432 [0, 9]
+Rollout depth: 29.3507 [1, 464]
+Total reward: 0.95216 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05091 [0, 8]
+Rollout depth: 28.4805 [1, 306]
+Total reward: 0.957715 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06168 [0, 7]
+Rollout depth: 26.5277 [1, 344]
+Total reward: 0.96415 [0, 1]
+
+Cell:28
+Aircraft:12
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 2.06948 [0, 6]
+Rollout depth: 25.8309 [1, 323]
+Total reward: 0.96565 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03752 [0, 5]
+Rollout depth: 27.0347 [1, 229]
+Total reward: 0.986645 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.026475 [0, 4]
+Rollout depth: 25.6453 [1, 212]
+Total reward: 0.9983 [0, 1]
+
+Cell:15
+Aircraft:15
+Human:0
+Distance:6
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987421
+Undiscounted return = 1, average = 0.987421
+Starting run 319 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01959 [0, 9]
+Rollout depth: 30.2807 [1, 329]
+Total reward: 0.950485 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05251 [0, 8]
+Rollout depth: 27.9564 [1, 258]
+Total reward: 0.960345 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06355 [0, 7]
+Rollout depth: 26.7885 [1, 343]
+Total reward: 0.96388 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06275 [0, 6]
+Rollout depth: 26.3358 [1, 239]
+Total reward: 0.96611 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.0362 [0, 5]
+Rollout depth: 25.5243 [1, 256]
+Total reward: 0.986485 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.028175 [0, 4]
+Rollout depth: 24.4226 [1, 183]
+Total reward: 0.998315 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987461
+Undiscounted return = 1, average = 0.987461
+Starting run 320 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.03863 [0, 9]
+Rollout depth: 29.1883 [1, 356]
+Total reward: 0.95737 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05299 [0, 8]
+Rollout depth: 28.463 [1, 281]
+Total reward: 0.96024 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.0596 [0, 7]
+Rollout depth: 26.7635 [1, 367]
+Total reward: 0.964125 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.0643 [0, 6]
+Rollout depth: 25.9569 [1, 270]
+Total reward: 0.966455 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.03605 [0, 5]
+Rollout depth: 25.0691 [1, 208]
+Total reward: 0.986865 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.02836 [0, 4]
+Rollout depth: 23.4713 [1, 162]
+Total reward: 0.99825 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.9875
+Undiscounted return = 1, average = 0.9875
+Starting run 321 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99731 [0, 9]
+Rollout depth: 30.3932 [1, 288]
+Total reward: 0.943945 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04867 [0, 8]
+Rollout depth: 27.8383 [1, 296]
+Total reward: 0.95986 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.10761 [0, 7]
+Rollout depth: 27.7583 [1, 347]
+Total reward: 0.937535 [0, 1]
+
+Cell:169
+Aircraft:9
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 2.03779 [0, 6]
+Rollout depth: 26.4305 [1, 331]
+Total reward: 0.9174 [0, 1]
+
+Cell:173
+Aircraft:13
+Human:10
+Distance:2
+Observation: 10
+Tree depth: 1.02029 [0, 5]
+Rollout depth: 27.5904 [1, 226]
+Total reward: 0.90956 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.001315 [0, 2]
+Rollout depth: 27.5959 [1, 145]
+Total reward: 0.999475 [0, 1]
+
+Cell:159
+Aircraft:15
+Human:9
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987539
+Undiscounted return = 1, average = 0.987539
+Starting run 322 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.90051 [0, 10]
+Rollout depth: 31.0483 [1, 450]
+Total reward: 0.88036 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04711 [0, 8]
+Rollout depth: 27.741 [1, 356]
+Total reward: 0.96209 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06053 [0, 7]
+Rollout depth: 26.852 [1, 264]
+Total reward: 0.964385 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06464 [0, 6]
+Rollout depth: 25.965 [1, 275]
+Total reward: 0.96634 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03376 [0, 5]
+Rollout depth: 24.4437 [1, 242]
+Total reward: 0.98654 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.02694 [0, 4]
+Rollout depth: 24.7797 [1, 181]
+Total reward: 0.99831 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987578
+Undiscounted return = 1, average = 0.987578
+Starting run 323 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04046 [0, 9]
+Rollout depth: 28.6943 [1, 294]
+Total reward: 0.95766 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04728 [0, 8]
+Rollout depth: 28.1275 [1, 271]
+Total reward: 0.960465 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06398 [0, 7]
+Rollout depth: 26.7555 [1, 278]
+Total reward: 0.963345 [0, 1]
+
+Cell:92
+Aircraft:12
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 2.06719 [0, 6]
+Rollout depth: 26.8987 [1, 290]
+Total reward: 0.965745 [0, 1]
+
+Cell:77
+Aircraft:13
+Human:4
+Distance:3
+Observation: 16
+Tree depth: 1.03995 [0, 5]
+Rollout depth: 25.4998 [1, 275]
+Total reward: 0.986635 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.02561 [0, 4]
+Rollout depth: 23.721 [1, 231]
+Total reward: 0.99838 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987616
+Undiscounted return = 1, average = 0.987616
+Starting run 324 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00934 [0, 9]
+Rollout depth: 30.0961 [1, 335]
+Total reward: 0.94967 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.06087 [0, 8]
+Rollout depth: 27.4244 [1, 306]
+Total reward: 0.961195 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.05976 [0, 7]
+Rollout depth: 26.6757 [1, 322]
+Total reward: 0.963 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06736 [0, 6]
+Rollout depth: 26.2343 [1, 301]
+Total reward: 0.965765 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03506 [0, 5]
+Rollout depth: 25.1321 [1, 267]
+Total reward: 0.986265 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.003745 [0, 3]
+Rollout depth: 26.6355 [1, 187]
+Total reward: 0.7846 [0, 1]
+
+Cell:239
+Aircraft:15
+Human:14
+Distance:1
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.987654
+Undiscounted return = 1, average = 0.987654
+Starting run 325 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00914 [0, 9]
+Rollout depth: 30.18 [1, 332]
+Total reward: 0.94641 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05006 [0, 8]
+Rollout depth: 28.4227 [1, 274]
+Total reward: 0.957515 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06059 [0, 7]
+Rollout depth: 26.7739 [1, 277]
+Total reward: 0.964285 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06661 [0, 6]
+Rollout depth: 26.4003 [1, 318]
+Total reward: 0.965625 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03498 [0, 5]
+Rollout depth: 25.3397 [1, 246]
+Total reward: 0.986915 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.002035 [0, 3]
+Rollout depth: 25.1139 [1, 206]
+Total reward: 0.999405 [0, 1]
+
+Cell:175
+Aircraft:15
+Human:10
+Distance:2
+Observation: 13
+Terminated
+Discounted return = 1, average = 0.987692
+Undiscounted return = 1, average = 0.987692
+Starting run 326 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.06895 [0, 9]
+Rollout depth: 28.6746 [1, 272]
+Total reward: 0.925495 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04857 [0, 8]
+Rollout depth: 28.075 [1, 292]
+Total reward: 0.95721 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06382 [0, 7]
+Rollout depth: 27.2589 [1, 300]
+Total reward: 0.96345 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06626 [0, 6]
+Rollout depth: 25.8485 [1, 295]
+Total reward: 0.96598 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03157 [0, 5]
+Rollout depth: 26.5395 [1, 231]
+Total reward: 0.986475 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 11
+Tree depth: 0.01083 [0, 3]
+Rollout depth: 24.9369 [1, 315]
+Total reward: 0.998835 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98773
+Undiscounted return = 1, average = 0.98773
+Starting run 327 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00351 [0, 9]
+Rollout depth: 30.0339 [1, 263]
+Total reward: 0.94955 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04831 [0, 8]
+Rollout depth: 28.1501 [1, 374]
+Total reward: 0.958325 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.10455 [0, 7]
+Rollout depth: 27.8451 [1, 332]
+Total reward: 0.93939 [0, 1]
+
+Cell:169
+Aircraft:9
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 2.03822 [0, 6]
+Rollout depth: 25.9484 [1, 296]
+Total reward: 0.917505 [0, 1]
+
+Cell:173
+Aircraft:13
+Human:10
+Distance:2
+Observation: 9
+Tree depth: 1.02107 [0, 4]
+Rollout depth: 24.6023 [1, 294]
+Total reward: 0.99531 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 11
+Tree depth: 0.00809 [0, 3]
+Rollout depth: 27.2798 [1, 263]
+Total reward: 0.998975 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.987768
+Undiscounted return = 1, average = 0.987768
+Starting run 328 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99766 [0, 9]
+Rollout depth: 30.8429 [1, 263]
+Total reward: 0.9459 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05404 [0, 8]
+Rollout depth: 27.7162 [1, 286]
+Total reward: 0.9619 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06891 [0, 7]
+Rollout depth: 27.3892 [1, 298]
+Total reward: 0.962885 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06991 [0, 6]
+Rollout depth: 25.8814 [1, 362]
+Total reward: 0.96627 [0, 1]
+
+Cell:93
+Aircraft:13
+Human:5
+Distance:2
+Observation: 8
+Tree depth: 1.0734 [0, 5]
+Rollout depth: 24.6593 [1, 197]
+Total reward: 0.994765 [0, 1]
+
+Cell:78
+Aircraft:14
+Human:4
+Distance:4
+Observation: 16
+Tree depth: 0.096275 [0, 4]
+Rollout depth: 23.9654 [1, 176]
+Total reward: 0.997265 [0, 1]
+
+Cell:143
+Aircraft:15
+Human:8
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987805
+Undiscounted return = 1, average = 0.987805
+Starting run 329 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02881 [0, 9]
+Rollout depth: 29.4394 [1, 341]
+Total reward: 0.95328 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05563 [0, 8]
+Rollout depth: 28.4242 [1, 361]
+Total reward: 0.956925 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06433 [0, 7]
+Rollout depth: 26.6848 [1, 256]
+Total reward: 0.965395 [0, 1]
+
+Cell:92
+Aircraft:12
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 2.07452 [0, 6]
+Rollout depth: 26.117 [1, 278]
+Total reward: 0.965575 [0, 1]
+
+Cell:157
+Aircraft:13
+Human:9
+Distance:1
+Observation: 9
+Tree depth: 1.02698 [0, 5]
+Rollout depth: 24.6441 [1, 304]
+Total reward: 0.994975 [0, 1]
+
+Cell:158
+Aircraft:14
+Human:9
+Distance:2
+Observation: 13
+Tree depth: 0.00131 [0, 2]
+Rollout depth: 25.7829 [1, 159]
+Total reward: 0.99947 [0, 1]
+
+Cell:159
+Aircraft:15
+Human:9
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987842
+Undiscounted return = 1, average = 0.987842
+Starting run 330 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02871 [0, 9]
+Rollout depth: 29.3463 [1, 303]
+Total reward: 0.95581 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05226 [0, 8]
+Rollout depth: 27.7794 [1, 261]
+Total reward: 0.95798 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.11443 [0, 7]
+Rollout depth: 27.0851 [1, 309]
+Total reward: 0.93602 [0, 1]
+
+Cell:121
+Aircraft:9
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 2.04594 [0, 6]
+Rollout depth: 26.6057 [1, 293]
+Total reward: 0.978175 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03441 [0, 5]
+Rollout depth: 26.1708 [1, 259]
+Total reward: 0.987395 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.026765 [0, 4]
+Rollout depth: 23.5106 [1, 239]
+Total reward: 0.998365 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987879
+Undiscounted return = 1, average = 0.987879
+Starting run 331 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01707 [0, 9]
+Rollout depth: 29.9117 [1, 350]
+Total reward: 0.949435 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04737 [0, 8]
+Rollout depth: 27.5657 [1, 381]
+Total reward: 0.960255 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06085 [0, 7]
+Rollout depth: 26.4875 [1, 236]
+Total reward: 0.963055 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06701 [0, 6]
+Rollout depth: 26.0082 [1, 322]
+Total reward: 0.96558 [0, 1]
+
+Cell:93
+Aircraft:13
+Human:5
+Distance:2
+Observation: 5
+Tree depth: 1.04323 [0, 5]
+Rollout depth: 24.8246 [1, 243]
+Total reward: 0.994895 [0, 1]
+
+Cell:78
+Aircraft:14
+Human:4
+Distance:4
+Observation: 16
+Tree depth: 0.09035 [0, 4]
+Rollout depth: 23.2592 [1, 175]
+Total reward: 0.997315 [0, 1]
+
+Cell:143
+Aircraft:15
+Human:8
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987915
+Undiscounted return = 1, average = 0.987915
+Starting run 332 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02473 [0, 9]
+Rollout depth: 29.6585 [1, 324]
+Total reward: 0.95069 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.06082 [0, 8]
+Rollout depth: 27.3054 [1, 302]
+Total reward: 0.96236 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.0644 [0, 7]
+Rollout depth: 26.2293 [1, 311]
+Total reward: 0.965545 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06699 [0, 6]
+Rollout depth: 26.0162 [1, 361]
+Total reward: 0.966465 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.04395 [0, 5]
+Rollout depth: 24.7804 [1, 244]
+Total reward: 0.986045 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.0232 [0, 4]
+Rollout depth: 25.5524 [1, 212]
+Total reward: 0.998425 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987952
+Undiscounted return = 1, average = 0.987952
+Starting run 333 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01398 [0, 9]
+Rollout depth: 29.8037 [1, 340]
+Total reward: 0.951585 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.09835 [0, 8]
+Rollout depth: 27.9562 [1, 422]
+Total reward: 0.93179 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.10792 [0, 7]
+Rollout depth: 27.4468 [1, 371]
+Total reward: 0.938195 [0, 1]
+
+Cell:57
+Aircraft:9
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 2.03477 [0, 6]
+Rollout depth: 27.0104 [1, 213]
+Total reward: 0.97894 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03278 [0, 5]
+Rollout depth: 25.0546 [1, 221]
+Total reward: 0.98771 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.01893 [0, 4]
+Rollout depth: 24.6029 [1, 197]
+Total reward: 0.998525 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.987988
+Undiscounted return = 1, average = 0.987988
+Starting run 334 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99586 [0, 9]
+Rollout depth: 30.4206 [1, 413]
+Total reward: 0.94253 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04801 [0, 8]
+Rollout depth: 29.0346 [1, 341]
+Total reward: 0.95654 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.05487 [0, 7]
+Rollout depth: 26.8955 [1, 311]
+Total reward: 0.965045 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06897 [0, 6]
+Rollout depth: 26.3016 [1, 257]
+Total reward: 0.96679 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03187 [0, 5]
+Rollout depth: 24.7959 [1, 260]
+Total reward: 0.987105 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 10
+Tree depth: 0.00216 [0, 3]
+Rollout depth: 24.1964 [1, 157]
+Total reward: 0.9994 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988024
+Undiscounted return = 1, average = 0.988024
+Starting run 335 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01356 [0, 9]
+Rollout depth: 30.0492 [1, 304]
+Total reward: 0.949095 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04785 [0, 8]
+Rollout depth: 28.051 [1, 314]
+Total reward: 0.95856 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06288 [0, 7]
+Rollout depth: 26.6491 [1, 306]
+Total reward: 0.965125 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06637 [0, 6]
+Rollout depth: 25.7856 [1, 309]
+Total reward: 0.96626 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03988 [0, 5]
+Rollout depth: 26.6853 [1, 221]
+Total reward: 0.98657 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.02414 [0, 4]
+Rollout depth: 24.7728 [1, 176]
+Total reward: 0.99843 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 7
+Terminated
+Discounted return = 1, average = 0.98806
+Undiscounted return = 1, average = 0.98806
+Starting run 336 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.06538 [0, 9]
+Rollout depth: 29.3036 [1, 411]
+Total reward: 0.921225 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.0525 [0, 8]
+Rollout depth: 28.0494 [1, 347]
+Total reward: 0.959315 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.11459 [0, 7]
+Rollout depth: 27.5802 [1, 299]
+Total reward: 0.93337 [0, 1]
+
+Cell:185
+Aircraft:9
+Human:11
+Distance:2
+Observation: 14
+Tree depth: 2.06158 [0, 6]
+Rollout depth: 26.6089 [1, 288]
+Total reward: 0.90296 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03132 [0, 5]
+Rollout depth: 25.861 [1, 227]
+Total reward: 0.953495 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 6
+Tree depth: 0.008495 [0, 4]
+Rollout depth: 26.671 [1, 211]
+Total reward: 0.998965 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 7
+Terminated
+Discounted return = 1, average = 0.988095
+Undiscounted return = 1, average = 0.988095
+Starting run 337 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01886 [0, 9]
+Rollout depth: 29.8538 [1, 277]
+Total reward: 0.95041 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04846 [0, 8]
+Rollout depth: 28.2602 [1, 295]
+Total reward: 0.957585 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06368 [0, 7]
+Rollout depth: 27.4219 [1, 305]
+Total reward: 0.963295 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06987 [0, 6]
+Rollout depth: 26.5108 [1, 373]
+Total reward: 0.96593 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03936 [0, 5]
+Rollout depth: 25.8116 [1, 233]
+Total reward: 0.986485 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.014055 [0, 4]
+Rollout depth: 24.9121 [1, 226]
+Total reward: 0.998755 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988131
+Undiscounted return = 1, average = 0.988131
+Starting run 338 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02408 [0, 9]
+Rollout depth: 29.2609 [1, 313]
+Total reward: 0.95363 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.09231 [0, 8]
+Rollout depth: 28.2721 [1, 348]
+Total reward: 0.93119 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06237 [0, 7]
+Rollout depth: 26.1304 [1, 375]
+Total reward: 0.96441 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06791 [0, 6]
+Rollout depth: 26.1123 [1, 278]
+Total reward: 0.96622 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.0335 [0, 5]
+Rollout depth: 25.77 [1, 347]
+Total reward: 0.98702 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.01915 [0, 4]
+Rollout depth: 25.6294 [1, 187]
+Total reward: 0.99852 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988166
+Undiscounted return = 1, average = 0.988166
+Starting run 339 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00636 [0, 9]
+Rollout depth: 30.0994 [1, 277]
+Total reward: 0.947385 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05399 [0, 8]
+Rollout depth: 28.7349 [1, 278]
+Total reward: 0.95916 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06198 [0, 7]
+Rollout depth: 26.7449 [1, 305]
+Total reward: 0.96368 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06301 [0, 6]
+Rollout depth: 26.269 [1, 287]
+Total reward: 0.96598 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03389 [0, 5]
+Rollout depth: 25.8782 [1, 221]
+Total reward: 0.987165 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.030065 [0, 4]
+Rollout depth: 23.8369 [1, 208]
+Total reward: 0.998275 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988201
+Undiscounted return = 1, average = 0.988201
+Starting run 340 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99561 [0, 9]
+Rollout depth: 30.2132 [1, 280]
+Total reward: 0.945865 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05082 [0, 8]
+Rollout depth: 28.5288 [1, 270]
+Total reward: 0.95864 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06042 [0, 7]
+Rollout depth: 26.6851 [1, 350]
+Total reward: 0.96183 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.07223 [0, 6]
+Rollout depth: 26.171 [1, 255]
+Total reward: 0.96656 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.04184 [0, 5]
+Rollout depth: 26.3401 [1, 244]
+Total reward: 0.98636 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 10
+Tree depth: 0.002385 [0, 3]
+Rollout depth: 24.8319 [1, 156]
+Total reward: 0.99937 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988235
+Undiscounted return = 1, average = 0.988235
+Starting run 341 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01217 [0, 9]
+Rollout depth: 29.6914 [1, 274]
+Total reward: 0.952485 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05599 [0, 8]
+Rollout depth: 27.2392 [1, 388]
+Total reward: 0.961415 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.07089 [0, 7]
+Rollout depth: 27.1196 [1, 298]
+Total reward: 0.963195 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06601 [0, 6]
+Rollout depth: 25.7486 [1, 319]
+Total reward: 0.966135 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03872 [0, 5]
+Rollout depth: 25.9294 [1, 283]
+Total reward: 0.98667 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.02208 [0, 4]
+Rollout depth: 26.1671 [1, 174]
+Total reward: 0.998445 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98827
+Undiscounted return = 1, average = 0.98827
+Starting run 342 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02259 [0, 9]
+Rollout depth: 30.1474 [1, 390]
+Total reward: 0.950125 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05306 [0, 8]
+Rollout depth: 27.3877 [1, 261]
+Total reward: 0.961355 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.10642 [0, 7]
+Rollout depth: 27.4986 [1, 425]
+Total reward: 0.940885 [0, 1]
+
+Cell:41
+Aircraft:9
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 2.04081 [0, 6]
+Rollout depth: 26.5683 [1, 234]
+Total reward: 0.97842 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03175 [0, 5]
+Rollout depth: 25.3599 [1, 233]
+Total reward: 0.987845 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.00198 [0, 3]
+Rollout depth: 24.1456 [1, 176]
+Total reward: 0.9994 [0, 1]
+
+Cell:239
+Aircraft:15
+Human:14
+Distance:1
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.988304
+Undiscounted return = 1, average = 0.988304
+Starting run 343 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02491 [0, 9]
+Rollout depth: 29.1592 [1, 312]
+Total reward: 0.952525 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.0457 [0, 8]
+Rollout depth: 29.3914 [1, 258]
+Total reward: 0.953525 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06496 [0, 7]
+Rollout depth: 26.8274 [1, 283]
+Total reward: 0.963455 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06128 [0, 6]
+Rollout depth: 25.9678 [1, 317]
+Total reward: 0.96608 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03189 [0, 5]
+Rollout depth: 27.2729 [1, 204]
+Total reward: 0.987285 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.02647 [0, 4]
+Rollout depth: 23.7883 [1, 223]
+Total reward: 0.998365 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988338
+Undiscounted return = 1, average = 0.988338
+Starting run 344 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00358 [0, 9]
+Rollout depth: 30.7068 [1, 336]
+Total reward: 0.945815 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04717 [0, 8]
+Rollout depth: 28.9929 [1, 284]
+Total reward: 0.95287 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06456 [0, 7]
+Rollout depth: 27.3569 [1, 303]
+Total reward: 0.961635 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06557 [0, 6]
+Rollout depth: 25.8337 [1, 267]
+Total reward: 0.965775 [0, 1]
+
+Cell:173
+Aircraft:13
+Human:10
+Distance:2
+Observation: 9
+Tree depth: 1.02427 [0, 4]
+Rollout depth: 26.1033 [1, 250]
+Total reward: 0.99506 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.001525 [0, 2]
+Rollout depth: 24.956 [1, 143]
+Total reward: 0.99944 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988372
+Undiscounted return = 1, average = 0.988372
+Starting run 345 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.07715 [0, 9]
+Rollout depth: 27.9962 [1, 428]
+Total reward: 0.93115 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05045 [0, 8]
+Rollout depth: 27.6986 [1, 332]
+Total reward: 0.9598 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.11286 [0, 7]
+Rollout depth: 27.0242 [1, 331]
+Total reward: 0.93727 [0, 1]
+
+Cell:57
+Aircraft:9
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 2.03738 [0, 6]
+Rollout depth: 26.292 [1, 223]
+Total reward: 0.97841 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03236 [0, 5]
+Rollout depth: 24.7314 [1, 243]
+Total reward: 0.987455 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 11
+Tree depth: 0.00848 [0, 3]
+Rollout depth: 23.7279 [1, 147]
+Total reward: 0.99901 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988406
+Undiscounted return = 1, average = 0.988406
+Starting run 346 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04594 [0, 9]
+Rollout depth: 29.4285 [1, 260]
+Total reward: 0.92001 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05264 [0, 8]
+Rollout depth: 27.8242 [1, 260]
+Total reward: 0.95932 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.06421 [0, 7]
+Rollout depth: 26.8712 [1, 275]
+Total reward: 0.963195 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06825 [0, 6]
+Rollout depth: 25.9861 [1, 275]
+Total reward: 0.96617 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03164 [0, 5]
+Rollout depth: 24.9636 [1, 197]
+Total reward: 0.9865 [0, 1]
+
+Cell:110
+Aircraft:14
+Human:6
+Distance:2
+Observation: 9
+Tree depth: 0.10939 [0, 4]
+Rollout depth: 24.9475 [1, 197]
+Total reward: 0.997145 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.988439
+Undiscounted return = 1, average = 0.988439
+Starting run 347 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.015 [0, 9]
+Rollout depth: 30.2435 [1, 304]
+Total reward: 0.949445 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.10374 [0, 8]
+Rollout depth: 27.6913 [1, 315]
+Total reward: 0.931395 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.0629 [0, 7]
+Rollout depth: 25.7965 [1, 284]
+Total reward: 0.96453 [0, 1]
+
+Cell:172
+Aircraft:12
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 2.0625 [0, 6]
+Rollout depth: 26.5315 [1, 385]
+Total reward: 0.96589 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.04405 [0, 5]
+Rollout depth: 26.0795 [1, 293]
+Total reward: 0.98622 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.020155 [0, 4]
+Rollout depth: 24.858 [1, 191]
+Total reward: 0.998505 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988473
+Undiscounted return = 1, average = 0.988473
+Starting run 348 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01987 [0, 9]
+Rollout depth: 30.2705 [1, 317]
+Total reward: 0.95056 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04971 [0, 8]
+Rollout depth: 27.9802 [1, 273]
+Total reward: 0.959125 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.10942 [0, 7]
+Rollout depth: 27.6379 [1, 331]
+Total reward: 0.938205 [0, 1]
+
+Cell:169
+Aircraft:9
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 2.03217 [0, 6]
+Rollout depth: 26.7545 [1, 311]
+Total reward: 0.916715 [0, 1]
+
+Cell:157
+Aircraft:13
+Human:9
+Distance:1
+Observation: 9
+Tree depth: 1.02173 [0, 4]
+Rollout depth: 23.6322 [1, 303]
+Total reward: 0.995185 [0, 1]
+
+Cell:222
+Aircraft:14
+Human:13
+Distance:1
+Observation: 13
+Tree depth: 0.00128 [0, 3]
+Rollout depth: 26.1831 [1, 218]
+Total reward: 0.99949 [0, 1]
+
+Cell:223
+Aircraft:15
+Human:13
+Distance:2
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.988506
+Undiscounted return = 1, average = 0.988506
+Starting run 349 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.99988 [0, 9]
+Rollout depth: 30.3313 [1, 273]
+Total reward: 0.94547 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05126 [0, 8]
+Rollout depth: 27.6527 [1, 311]
+Total reward: 0.95952 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06469 [0, 7]
+Rollout depth: 26.6472 [1, 289]
+Total reward: 0.964105 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06852 [0, 6]
+Rollout depth: 26.6796 [1, 325]
+Total reward: 0.966355 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03234 [0, 5]
+Rollout depth: 27.0213 [1, 213]
+Total reward: 0.987015 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 10
+Tree depth: 0.0013 [0, 3]
+Rollout depth: 24.3399 [1, 140]
+Total reward: 0.999495 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.988539
+Undiscounted return = 1, average = 0.988539
+Starting run 350 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00271 [0, 9]
+Rollout depth: 30.5319 [1, 296]
+Total reward: 0.946525 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.09892 [0, 8]
+Rollout depth: 28.3918 [1, 331]
+Total reward: 0.92721 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06522 [0, 7]
+Rollout depth: 27.2977 [1, 334]
+Total reward: 0.96408 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06007 [0, 6]
+Rollout depth: 26.0825 [1, 290]
+Total reward: 0.96678 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03189 [0, 5]
+Rollout depth: 25.434 [1, 243]
+Total reward: 0.9873 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.019135 [0, 4]
+Rollout depth: 26.0565 [1, 166]
+Total reward: 0.998545 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 10
+Terminated
+Discounted return = 1, average = 0.988571
+Undiscounted return = 1, average = 0.988571
+Starting run 351 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00652 [0, 9]
+Rollout depth: 30.344 [1, 243]
+Total reward: 0.949165 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04664 [0, 8]
+Rollout depth: 28.0722 [1, 256]
+Total reward: 0.96079 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.10936 [0, 7]
+Rollout depth: 27.4757 [1, 259]
+Total reward: 0.939815 [0, 1]
+
+Cell:105
+Aircraft:9
+Human:6
+Distance:2
+Observation: 11
+Tree depth: 2.05603 [0, 6]
+Rollout depth: 26.75 [1, 355]
+Total reward: 0.95112 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03566 [0, 5]
+Rollout depth: 26.0563 [1, 248]
+Total reward: 0.979985 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.00152 [0, 3]
+Rollout depth: 24.4909 [1, 116]
+Total reward: 0.99947 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.988604
+Undiscounted return = 1, average = 0.988604
+Starting run 352 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01948 [0, 9]
+Rollout depth: 29.4672 [1, 312]
+Total reward: 0.95529 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.06124 [0, 8]
+Rollout depth: 26.58 [1, 314]
+Total reward: 0.9619 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.11001 [0, 7]
+Rollout depth: 27.2141 [1, 321]
+Total reward: 0.93997 [0, 1]
+
+Cell:41
+Aircraft:9
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 2.04441 [0, 6]
+Rollout depth: 27.1054 [1, 260]
+Total reward: 0.97861 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.03174 [0, 5]
+Rollout depth: 24.7795 [1, 215]
+Total reward: 0.98725 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.02514 [0, 4]
+Rollout depth: 25.0811 [1, 214]
+Total reward: 0.99835 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988636
+Undiscounted return = 1, average = 0.988636
+Starting run 353 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00624 [0, 9]
+Rollout depth: 29.6829 [1, 332]
+Total reward: 0.945955 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.055 [0, 8]
+Rollout depth: 27.1466 [1, 262]
+Total reward: 0.96081 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.0688 [0, 7]
+Rollout depth: 26.0569 [1, 270]
+Total reward: 0.96484 [0, 1]
+
+Cell:108
+Aircraft:12
+Human:6
+Distance:4
+Observation: 16
+Tree depth: 2.06378 [0, 6]
+Rollout depth: 26.1625 [1, 268]
+Total reward: 0.966525 [0, 1]
+
+Cell:173
+Aircraft:13
+Human:10
+Distance:2
+Observation: 10
+Tree depth: 1.04515 [0, 5]
+Rollout depth: 25.7084 [1, 239]
+Total reward: 0.951005 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.002105 [0, 3]
+Rollout depth: 26.7466 [1, 194]
+Total reward: 0.999385 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988669
+Undiscounted return = 1, average = 0.988669
+Starting run 354 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01206 [0, 9]
+Rollout depth: 30.2875 [1, 310]
+Total reward: 0.950625 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.10378 [0, 8]
+Rollout depth: 28.379 [1, 315]
+Total reward: 0.930465 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.10836 [0, 7]
+Rollout depth: 27.5422 [1, 298]
+Total reward: 0.93978 [0, 1]
+
+Cell:41
+Aircraft:9
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 2.03847 [0, 6]
+Rollout depth: 28.1594 [1, 249]
+Total reward: 0.978615 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03618 [0, 5]
+Rollout depth: 25.8685 [1, 222]
+Total reward: 0.987555 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.021525 [0, 4]
+Rollout depth: 24.9158 [1, 229]
+Total reward: 0.998485 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988701
+Undiscounted return = 1, average = 0.988701
+Starting run 355 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01424 [0, 9]
+Rollout depth: 29.4714 [1, 342]
+Total reward: 0.950785 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.09106 [0, 8]
+Rollout depth: 28.0284 [1, 275]
+Total reward: 0.93198 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.11281 [0, 7]
+Rollout depth: 27.3041 [1, 350]
+Total reward: 0.935425 [0, 1]
+
+Cell:89
+Aircraft:9
+Human:5
+Distance:1
+Observation: 5
+Tree depth: 2.08878 [0, 6]
+Rollout depth: 24.9555 [1, 217]
+Total reward: 0.985425 [0, 1]
+
+Cell:74
+Aircraft:10
+Human:4
+Distance:3
+Observation: 16
+Tree depth: 1.05381 [0, 5]
+Rollout depth: 25.3653 [1, 205]
+Total reward: 0.99651 [0, 1]
+
+Cell:142
+Aircraft:14
+Human:8
+Distance:3
+Observation: 16
+Tree depth: 0.03691 [0, 5]
+Rollout depth: 24.0319 [1, 206]
+Total reward: 0.998065 [0, 1]
+
+Cell:79
+Aircraft:15
+Human:4
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988732
+Undiscounted return = 1, average = 0.988732
+Starting run 356 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01673 [0, 9]
+Rollout depth: 29.6276 [1, 288]
+Total reward: 0.95433 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04949 [0, 8]
+Rollout depth: 27.6069 [1, 333]
+Total reward: 0.958575 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06191 [0, 7]
+Rollout depth: 26.6964 [1, 338]
+Total reward: 0.96599 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06453 [0, 6]
+Rollout depth: 26.7769 [1, 287]
+Total reward: 0.966205 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.03476 [0, 5]
+Rollout depth: 24.9946 [1, 351]
+Total reward: 0.986935 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 11
+Tree depth: 0.010555 [0, 4]
+Rollout depth: 25.688 [1, 197]
+Total reward: 0.998875 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.988764
+Undiscounted return = 1, average = 0.988764
+Starting run 357 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01672 [0, 9]
+Rollout depth: 29.5031 [1, 252]
+Total reward: 0.949385 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.0558 [0, 8]
+Rollout depth: 27.7956 [1, 294]
+Total reward: 0.959395 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.05982 [0, 7]
+Rollout depth: 26.6903 [1, 360]
+Total reward: 0.963935 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06625 [0, 6]
+Rollout depth: 25.6316 [1, 263]
+Total reward: 0.965415 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03758 [0, 5]
+Rollout depth: 26.3781 [1, 288]
+Total reward: 0.986835 [0, 1]
+
+Cell:190
+Aircraft:14
+Human:11
+Distance:2
+Observation: 14
+Tree depth: 0.005245 [0, 3]
+Rollout depth: 22.7727 [1, 143]
+Total reward: 0.99917 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 7
+Terminated
+Discounted return = 1, average = 0.988796
+Undiscounted return = 1, average = 0.988796
+Starting run 358 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.03825 [0, 9]
+Rollout depth: 29.4308 [1, 277]
+Total reward: 0.955515 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05499 [0, 8]
+Rollout depth: 28.4033 [1, 296]
+Total reward: 0.960125 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.1075 [0, 7]
+Rollout depth: 27.7203 [1, 334]
+Total reward: 0.93731 [0, 1]
+
+Cell:25
+Aircraft:9
+Human:1
+Distance:2
+Observation: 4
+Tree depth: 2.20523 [0, 7]
+Rollout depth: 25.7727 [1, 267]
+Total reward: 0.99381 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.16295 [0, 6]
+Rollout depth: 24.2944 [1, 226]
+Total reward: 0.994525 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.16474 [0, 5]
+Rollout depth: 24.2448 [1, 230]
+Total reward: 0.996745 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988827
+Undiscounted return = 1, average = 0.988827
+Starting run 359 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00438 [0, 9]
+Rollout depth: 30.0942 [1, 256]
+Total reward: 0.94674 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.09948 [0, 8]
+Rollout depth: 27.8928 [1, 337]
+Total reward: 0.934575 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.1069 [0, 7]
+Rollout depth: 27.3851 [1, 352]
+Total reward: 0.93795 [0, 1]
+
+Cell:169
+Aircraft:9
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 2.03246 [0, 6]
+Rollout depth: 26.2717 [1, 288]
+Total reward: 0.919755 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.03254 [0, 5]
+Rollout depth: 26.056 [1, 296]
+Total reward: 0.97007 [0, 1]
+
+Cell:94
+Aircraft:14
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 0.00926 [0, 4]
+Rollout depth: 24.0924 [1, 221]
+Total reward: 0.99893 [0, 1]
+
+Cell:79
+Aircraft:15
+Human:4
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988858
+Undiscounted return = 1, average = 0.988858
+Starting run 360 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01676 [0, 9]
+Rollout depth: 29.5342 [1, 365]
+Total reward: 0.952505 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05642 [0, 8]
+Rollout depth: 27.6455 [1, 344]
+Total reward: 0.96015 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06199 [0, 7]
+Rollout depth: 26.165 [1, 251]
+Total reward: 0.964475 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.0682 [0, 6]
+Rollout depth: 26.1422 [1, 256]
+Total reward: 0.966 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03213 [0, 5]
+Rollout depth: 25.3497 [1, 238]
+Total reward: 0.986475 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.017835 [0, 4]
+Rollout depth: 24.5574 [1, 208]
+Total reward: 0.998605 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988889
+Undiscounted return = 1, average = 0.988889
+Starting run 361 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.04108 [0, 9]
+Rollout depth: 29.3949 [1, 347]
+Total reward: 0.913735 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.10541 [0, 8]
+Rollout depth: 27.8941 [1, 294]
+Total reward: 0.929165 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.0654 [0, 7]
+Rollout depth: 26.9953 [1, 293]
+Total reward: 0.96299 [0, 1]
+
+Cell:28
+Aircraft:12
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 2.06453 [0, 6]
+Rollout depth: 26.6002 [1, 352]
+Total reward: 0.966235 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03458 [0, 5]
+Rollout depth: 25.4877 [1, 196]
+Total reward: 0.98664 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.01771 [0, 4]
+Rollout depth: 23.7705 [1, 221]
+Total reward: 0.99861 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98892
+Undiscounted return = 1, average = 0.98892
+Starting run 362 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00728 [0, 9]
+Rollout depth: 29.8792 [1, 264]
+Total reward: 0.948955 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04699 [0, 8]
+Rollout depth: 27.8695 [1, 307]
+Total reward: 0.958095 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06234 [0, 7]
+Rollout depth: 26.4525 [1, 273]
+Total reward: 0.964445 [0, 1]
+
+Cell:92
+Aircraft:12
+Human:5
+Distance:3
+Observation: 16
+Tree depth: 2.06254 [0, 6]
+Rollout depth: 25.6495 [1, 310]
+Total reward: 0.9661 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.03599 [0, 5]
+Rollout depth: 25.9685 [1, 322]
+Total reward: 0.986595 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.01906 [0, 4]
+Rollout depth: 25.7097 [1, 219]
+Total reward: 0.99854 [0, 1]
+
+Cell:15
+Aircraft:15
+Human:0
+Distance:6
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98895
+Undiscounted return = 1, average = 0.98895
+Starting run 363 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02313 [0, 9]
+Rollout depth: 29.7688 [1, 321]
+Total reward: 0.95098 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05754 [0, 8]
+Rollout depth: 27.3976 [1, 306]
+Total reward: 0.960285 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.05871 [0, 7]
+Rollout depth: 25.9611 [1, 282]
+Total reward: 0.964995 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06554 [0, 6]
+Rollout depth: 26.0304 [1, 253]
+Total reward: 0.96591 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.03352 [0, 5]
+Rollout depth: 25.8249 [1, 238]
+Total reward: 0.98699 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.022685 [0, 4]
+Rollout depth: 23.6726 [1, 174]
+Total reward: 0.998395 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.988981
+Undiscounted return = 1, average = 0.988981
+Starting run 364 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00215 [0, 9]
+Rollout depth: 30.7872 [1, 324]
+Total reward: 0.941535 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.06227 [0, 8]
+Rollout depth: 27.7111 [1, 262]
+Total reward: 0.95876 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.05824 [0, 7]
+Rollout depth: 26.8651 [1, 309]
+Total reward: 0.964725 [0, 1]
+
+Cell:28
+Aircraft:12
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 2.0669 [0, 6]
+Rollout depth: 26.2636 [1, 292]
+Total reward: 0.96613 [0, 1]
+
+Cell:29
+Aircraft:13
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 1.02863 [0, 5]
+Rollout depth: 26.1768 [1, 233]
+Total reward: 0.987105 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.01795 [0, 4]
+Rollout depth: 24.4554 [1, 151]
+Total reward: 0.998595 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989011
+Undiscounted return = 1, average = 0.989011
+Starting run 365 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00997 [0, 9]
+Rollout depth: 30.6985 [1, 267]
+Total reward: 0.949325 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.0493 [0, 8]
+Rollout depth: 28.0496 [1, 303]
+Total reward: 0.95758 [0, 1]
+
+Cell:184
+Aircraft:8
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 3.06152 [0, 7]
+Rollout depth: 26.6415 [1, 285]
+Total reward: 0.963695 [0, 1]
+
+Cell:252
+Aircraft:12
+Human:15
+Distance:3
+Observation: 16
+Tree depth: 2.06271 [0, 6]
+Rollout depth: 26.0355 [1, 300]
+Total reward: 0.96745 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03574 [0, 5]
+Rollout depth: 25.4115 [1, 252]
+Total reward: 0.98671 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.00194 [0, 3]
+Rollout depth: 23.8208 [1, 131]
+Total reward: 0.999405 [0, 1]
+
+Cell:175
+Aircraft:15
+Human:10
+Distance:2
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.989041
+Undiscounted return = 1, average = 0.989041
+Starting run 366 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.00497 [0, 9]
+Rollout depth: 29.7976 [1, 275]
+Total reward: 0.9486 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.04596 [0, 8]
+Rollout depth: 28.3615 [1, 293]
+Total reward: 0.958175 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06412 [0, 7]
+Rollout depth: 26.8985 [1, 296]
+Total reward: 0.96414 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.0689 [0, 6]
+Rollout depth: 26.7469 [1, 281]
+Total reward: 0.96558 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03627 [0, 5]
+Rollout depth: 25.6252 [1, 289]
+Total reward: 0.98652 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.01499 [0, 4]
+Rollout depth: 24.4354 [1, 171]
+Total reward: 0.99867 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989071
+Undiscounted return = 1, average = 0.989071
+Starting run 367 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.07724 [0, 9]
+Rollout depth: 28.7585 [1, 354]
+Total reward: 0.92707 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.05384 [0, 8]
+Rollout depth: 28.4566 [1, 260]
+Total reward: 0.96017 [0, 1]
+
+Cell:24
+Aircraft:8
+Human:1
+Distance:3
+Observation: 16
+Tree depth: 3.06037 [0, 7]
+Rollout depth: 27.0405 [1, 306]
+Total reward: 0.963115 [0, 1]
+
+Cell:28
+Aircraft:12
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 2.0658 [0, 6]
+Rollout depth: 25.4839 [1, 316]
+Total reward: 0.965705 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03615 [0, 5]
+Rollout depth: 25.0108 [1, 221]
+Total reward: 0.98637 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.01772 [0, 4]
+Rollout depth: 23.748 [1, 169]
+Total reward: 0.99861 [0, 1]
+
+Cell:15
+Aircraft:15
+Human:0
+Distance:6
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989101
+Undiscounted return = 1, average = 0.989101
+Starting run 368 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.02648 [0, 9]
+Rollout depth: 29.7503 [1, 282]
+Total reward: 0.95294 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.0557 [0, 8]
+Rollout depth: 26.8514 [1, 250]
+Total reward: 0.961115 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.06216 [0, 7]
+Rollout depth: 27.0511 [1, 313]
+Total reward: 0.964355 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06349 [0, 6]
+Rollout depth: 26.6792 [1, 280]
+Total reward: 0.96595 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03276 [0, 5]
+Rollout depth: 26.2277 [1, 245]
+Total reward: 0.987175 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.027215 [0, 5]
+Rollout depth: 24.5733 [1, 181]
+Total reward: 0.998345 [0, 1]
+
+Cell:31
+Aircraft:15
+Human:1
+Distance:5
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98913
+Undiscounted return = 1, average = 0.98913
+Starting run 369 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.03973 [0, 9]
+Rollout depth: 28.8446 [1, 315]
+Total reward: 0.958675 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.10167 [0, 8]
+Rollout depth: 27.4217 [1, 366]
+Total reward: 0.92973 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06571 [0, 7]
+Rollout depth: 26.7969 [1, 282]
+Total reward: 0.96282 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06708 [0, 6]
+Rollout depth: 25.633 [1, 316]
+Total reward: 0.965685 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03697 [0, 5]
+Rollout depth: 24.8291 [1, 268]
+Total reward: 0.9866 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.021925 [0, 4]
+Rollout depth: 25.235 [1, 164]
+Total reward: 0.998445 [0, 1]
+
+Cell:111
+Aircraft:15
+Human:6
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98916
+Undiscounted return = 1, average = 0.98916
+Starting run 370 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01081 [0, 9]
+Rollout depth: 30.2575 [1, 326]
+Total reward: 0.94643 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.0544 [0, 8]
+Rollout depth: 27.4696 [1, 387]
+Total reward: 0.962015 [0, 1]
+
+Cell:104
+Aircraft:8
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 3.06354 [0, 7]
+Rollout depth: 26.0325 [1, 331]
+Total reward: 0.964525 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06616 [0, 6]
+Rollout depth: 26.1372 [1, 314]
+Total reward: 0.966075 [0, 1]
+
+Cell:125
+Aircraft:13
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 1.0339 [0, 5]
+Rollout depth: 25.8354 [1, 224]
+Total reward: 0.98698 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.02412 [0, 4]
+Rollout depth: 23.0781 [1, 207]
+Total reward: 0.998385 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989189
+Undiscounted return = 1, average = 0.989189
+Starting run 371 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.05534 [0, 9]
+Rollout depth: 28.9096 [1, 393]
+Total reward: 0.921085 [0, 1]
+
+Cell:36
+Aircraft:4
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 4.08518 [0, 8]
+Rollout depth: 28.1693 [1, 314]
+Total reward: 0.932275 [0, 1]
+
+Cell:40
+Aircraft:8
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 3.05968 [0, 7]
+Rollout depth: 26.627 [1, 291]
+Total reward: 0.96364 [0, 1]
+
+Cell:44
+Aircraft:12
+Human:2
+Distance:5
+Observation: 16
+Tree depth: 2.06811 [0, 6]
+Rollout depth: 26.4127 [1, 322]
+Total reward: 0.96565 [0, 1]
+
+Cell:45
+Aircraft:13
+Human:2
+Distance:4
+Observation: 16
+Tree depth: 1.03458 [0, 5]
+Rollout depth: 25.2592 [1, 233]
+Total reward: 0.98654 [0, 1]
+
+Cell:30
+Aircraft:14
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.02599 [0, 4]
+Rollout depth: 25.9049 [1, 217]
+Total reward: 0.99832 [0, 1]
+
+Cell:95
+Aircraft:15
+Human:5
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989218
+Undiscounted return = 1, average = 0.989218
+Starting run 372 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01036 [0, 9]
+Rollout depth: 30.1698 [1, 255]
+Total reward: 0.949555 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05002 [0, 8]
+Rollout depth: 28.0254 [1, 302]
+Total reward: 0.959805 [0, 1]
+
+Cell:184
+Aircraft:8
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 3.05926 [0, 7]
+Rollout depth: 27.0563 [1, 246]
+Total reward: 0.964085 [0, 1]
+
+Cell:172
+Aircraft:12
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 2.06554 [0, 6]
+Rollout depth: 26.2516 [1, 264]
+Total reward: 0.9665 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03534 [0, 5]
+Rollout depth: 25.2351 [1, 236]
+Total reward: 0.98694 [0, 1]
+
+Cell:254
+Aircraft:14
+Human:15
+Distance:1
+Observation: 15
+Tree depth: 0.00436 [0, 3]
+Rollout depth: 25.8253 [1, 211]
+Total reward: 0.78758 [0, 1]
+
+Cell:239
+Aircraft:15
+Human:14
+Distance:1
+Observation: 14
+Terminated
+Discounted return = 1, average = 0.989247
+Undiscounted return = 1, average = 0.989247
+Starting run 373 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01606 [0, 9]
+Rollout depth: 29.7269 [1, 309]
+Total reward: 0.94743 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.04489 [0, 8]
+Rollout depth: 28.317 [1, 436]
+Total reward: 0.958595 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.06475 [0, 7]
+Rollout depth: 26.848 [1, 304]
+Total reward: 0.963945 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06927 [0, 6]
+Rollout depth: 26.6495 [1, 253]
+Total reward: 0.966445 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03601 [0, 5]
+Rollout depth: 25.8027 [1, 218]
+Total reward: 0.986765 [0, 1]
+
+Cell:174
+Aircraft:14
+Human:10
+Distance:1
+Observation: 10
+Tree depth: 0.001605 [0, 3]
+Rollout depth: 25.8306 [1, 160]
+Total reward: 0.99945 [0, 1]
+
+Cell:191
+Aircraft:15
+Human:11
+Distance:1
+Observation: 11
+Terminated
+Discounted return = 1, average = 0.989276
+Undiscounted return = 1, average = 0.989276
+Starting run 374 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 4.95643 [0, 9]
+Rollout depth: 31.9286 [1, 364]
+Total reward: 0.923185 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.04812 [0, 8]
+Rollout depth: 28.3913 [1, 333]
+Total reward: 0.95835 [0, 1]
+
+Cell:184
+Aircraft:8
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 3.06954 [0, 7]
+Rollout depth: 25.6665 [1, 351]
+Total reward: 0.964345 [0, 1]
+
+Cell:188
+Aircraft:12
+Human:11
+Distance:4
+Observation: 16
+Tree depth: 2.06314 [0, 6]
+Rollout depth: 26.1647 [1, 287]
+Total reward: 0.96672 [0, 1]
+
+Cell:189
+Aircraft:13
+Human:11
+Distance:3
+Observation: 16
+Tree depth: 1.03394 [0, 5]
+Rollout depth: 26.0124 [1, 244]
+Total reward: 0.986495 [0, 1]
+
+Cell:126
+Aircraft:14
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 0.021555 [0, 4]
+Rollout depth: 24.6156 [1, 201]
+Total reward: 0.99848 [0, 1]
+
+Cell:127
+Aircraft:15
+Human:7
+Distance:2
+Observation: 7
+Terminated
+Discounted return = 1, average = 0.989305
+Undiscounted return = 1, average = 0.989305
+Starting run 375 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.05187 [0, 9]
+Rollout depth: 29.0781 [1, 312]
+Total reward: 0.92481 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05828 [0, 8]
+Rollout depth: 27.181 [1, 261]
+Total reward: 0.96217 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.0665 [0, 7]
+Rollout depth: 26.6747 [1, 330]
+Total reward: 0.96408 [0, 1]
+
+Cell:124
+Aircraft:12
+Human:7
+Distance:5
+Observation: 16
+Tree depth: 2.06522 [0, 6]
+Rollout depth: 26.5719 [1, 258]
+Total reward: 0.965675 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03373 [0, 5]
+Rollout depth: 24.1478 [1, 221]
+Total reward: 0.98721 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.030245 [0, 4]
+Rollout depth: 25.5251 [1, 185]
+Total reward: 0.99827 [0, 1]
+
+Cell:63
+Aircraft:15
+Human:3
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989333
+Undiscounted return = 1, average = 0.989333
+Starting run 376 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.03523 [0, 9]
+Rollout depth: 29.6508 [1, 407]
+Total reward: 0.9129 [0, 1]
+
+Cell:116
+Aircraft:4
+Human:7
+Distance:3
+Observation: 16
+Tree depth: 4.05368 [0, 8]
+Rollout depth: 27.7634 [1, 306]
+Total reward: 0.95898 [0, 1]
+
+Cell:56
+Aircraft:8
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 3.07129 [0, 7]
+Rollout depth: 26.6303 [1, 248]
+Total reward: 0.96347 [0, 1]
+
+Cell:60
+Aircraft:12
+Human:3
+Distance:6
+Observation: 16
+Tree depth: 2.06494 [0, 6]
+Rollout depth: 26.2562 [1, 518]
+Total reward: 0.96556 [0, 1]
+
+Cell:61
+Aircraft:13
+Human:3
+Distance:5
+Observation: 16
+Tree depth: 1.03918 [0, 5]
+Rollout depth: 26.3744 [1, 291]
+Total reward: 0.986515 [0, 1]
+
+Cell:62
+Aircraft:14
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 0.01965 [0, 4]
+Rollout depth: 23.7978 [1, 203]
+Total reward: 0.99856 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.989362
+Undiscounted return = 1, average = 0.989362
+Starting run 377 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.07179 [0, 9]
+Rollout depth: 28.6912 [1, 275]
+Total reward: 0.9243 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.05485 [0, 8]
+Rollout depth: 27.8109 [1, 313]
+Total reward: 0.9603 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.11079 [0, 7]
+Rollout depth: 27.3242 [1, 323]
+Total reward: 0.93812 [0, 1]
+
+Cell:105
+Aircraft:9
+Human:6
+Distance:2
+Observation: 6
+Tree depth: 2.06124 [0, 6]
+Rollout depth: 26.7119 [1, 297]
+Total reward: 0.963065 [0, 1]
+
+Cell:109
+Aircraft:13
+Human:6
+Distance:3
+Observation: 16
+Tree depth: 1.04268 [0, 5]
+Rollout depth: 25.2213 [1, 201]
+Total reward: 0.985415 [0, 1]
+
+Cell:46
+Aircraft:14
+Human:2
+Distance:3
+Observation: 16
+Tree depth: 0.088635 [0, 4]
+Rollout depth: 24.8352 [1, 266]
+Total reward: 0.997265 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 0.98939
+Undiscounted return = 1, average = 0.98939
+Starting run 378 with 200000 simulations... 
+
+Cell:48
+Aircraft:0
+Human:3
+Distance:3
+Tree depth: 5.01647 [0, 9]
+Rollout depth: 29.6879 [1, 321]
+Total reward: 0.950415 [0, 1]
+
+Cell:52
+Aircraft:4
+Human:3
+Distance:4
+Observation: 16
+Tree depth: 4.09834 [0, 8]
+Rollout depth: 27.9748 [1, 291]
+Total reward: 0.937285 [0, 1]
+
+Cell:120
+Aircraft:8
+Human:7
+Distance:4
+Observation: 16
+Tree depth: 3.10656 [0, 7]
+Rollout depth: 27.1331 [1, 298]
+Total reward: 0.93917 [0, 1]
+
+Cell:185
+Aircraft:9
+Human:11
+Distance:2
+Observation: 10
+Main runs
+Starting run 1 with 200000 simulations... 
+
+Cell:144
+Aircraft:0
+Human:9
+Distance:3
+Tree depth: 4.73992 [0, 9]
+Rollout depth: 31.5618 [1, 351]
+Total reward: 0.75002 [0, 1]
+
+Cell:145
+Aircraft:1
+Human:9
+Distance:2
+Observation: 4
+Tree depth: 4.0817 [0, 8]
+Rollout depth: 30.5615 [1, 389]
+Total reward: 0.867635 [0, 1]
+
+Cell:146
+Aircraft:2
+Human:9
+Distance:3
+Observation: 16
+Tree depth: 3.0713 [0, 7]
+Rollout depth: 26.5589 [1, 304]
+Total reward: 0.965615 [0, 1]
+
+Cell:131
+Aircraft:3
+Human:8
+Distance:5
+Observation: 16
+Tree depth: 2.06725 [0, 6]
+Rollout depth: 26.1236 [1, 287]
+Total reward: 0.96821 [0, 1]
+
+Cell:199
+Aircraft:7
+Human:12
+Distance:5
+Observation: 16
+Tree depth: 1.03735 [0, 5]
+Rollout depth: 25.4188 [1, 319]
+Total reward: 0.987165 [0, 1]
+
+Cell:219
+Aircraft:11
+Human:13
+Distance:3
+Observation: 16
+Tree depth: 0.02105 [0, 4]
+Rollout depth: 23.0597 [1, 211]
+Total reward: 0.998465 [0, 1]
+
+Cell:159
+Aircraft:15
+Human:9
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 2 with 200000 simulations... 
+
+Cell:144
+Aircraft:0
+Human:9
+Distance:3
+Tree depth: 4.86397 [0, 9]
+Rollout depth: 30.6439 [1, 355]
+Total reward: 0.75302 [0, 1]
+
+Cell:161
+Aircraft:1
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 4.01718 [0, 8]
+Rollout depth: 30.576 [1, 366]
+Total reward: 0.874285 [0, 1]
+
+Cell:162
+Aircraft:2
+Human:10
+Distance:2
+Observation: 6
+Tree depth: 3.04024 [0, 7]
+Rollout depth: 27.2207 [1, 354]
+Total reward: 0.84801 [0, 1]
+
+Cell:163
+Aircraft:3
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 2.05616 [0, 6]
+Rollout depth: 26.5356 [1, 301]
+Total reward: 0.93562 [0, 1]
+
+Cell:151
+Aircraft:7
+Human:9
+Distance:3
+Observation: 16
+Tree depth: 1.0262 [0, 5]
+Rollout depth: 26.5341 [1, 313]
+Total reward: 0.975945 [0, 1]
+
+Cell:155
+Aircraft:11
+Human:9
+Distance:2
+Observation: 14
+Tree depth: 0.008385 [0, 4]
+Rollout depth: 25.2527 [1, 205]
+Total reward: 0.998965 [0, 1]
+
+Cell:223
+Aircraft:15
+Human:13
+Distance:2
+Observation: 10
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 3 with 200000 simulations... 
+
+Cell:144
+Aircraft:0
+Human:9
+Distance:3
+Tree depth: 4.81118 [0, 9]
+Rollout depth: 31.1497 [1, 407]
+Total reward: 0.742045 [0, 1]
+
+Cell:161
+Aircraft:1
+Human:10
+Distance:3
+Observation: 16
+Tree depth: 4.00843 [0, 8]
+Rollout depth: 30.1946 [1, 311]
+Total reward: 0.86947 [0, 1]
+
+Cell:162
+Aircraft:2
+Human:10
+Distance:2
+Observation: 10
+Tree depth: 3.10337 [0, 7]
+Rollout depth: 28.2743 [1, 290]
+Total reward: 0.86826 [0, 1]
+
+Cell:147
+Aircraft:3
+Human:9
+Distance:4
+Observation: 16
+Tree depth: 2.06662 [0, 6]
+Rollout depth: 26.5566 [1, 305]
+Total reward: 0.93071 [0, 1]
+
+Cell:87
+Aircraft:7
+Human:5
+Distance:2
+Observation: 5
+Tree depth: 1.03892 [0, 5]
+Rollout depth: 26.5793 [1, 283]
+Total reward: 0.99487 [0, 1]
+
+Cell:27
+Aircraft:11
+Human:1
+Distance:4
+Observation: 16
+Tree depth: 0.10451 [0, 4]
+Rollout depth: 25.3326 [1, 216]
+Total reward: 0.997145 [0, 1]
+
+Cell:47
+Aircraft:15
+Human:2
+Distance:4
+Observation: 16
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 4 with 200000 simulations... 
+
+Cell:144
+Aircraft:0
+Human:9
+Distance:3
+Tree depth: 4.75872 [0, 9]
+Rollout depth: 31.4347 [1, 383]
+Total reward: 0.749215 [0, 1]
+
+Cell:145
+Aircraft:1
+Human:9
+Distance:2
+Observation: 9
+Tree depth: 4.07322 [0, 8]
+Rollout depth: 30.1305 [1, 399]
+Total reward: 0.86621 [0, 1]
+
+Cell:210
+Aircraft:2
+Human:13
+Distance:4
+Observation: 16
+Tree depth: 3.06645 [0, 7]
+Rollout depth: 27.2056 [1, 267]
+Total reward: 0.96559 [0, 1]
+
+Cell:211
+Aircraft:3
+Human:13
+Distance:5
+Observation: 16
+Tree depth: 2.0745 [0, 6]
+Rollout depth: 26.6947 [1, 296]
+Total reward: 0.968185 [0, 1]
+
+Cell:215
+Aircraft:7
+Human:13
+Distance:4
+Observation: 16
+Tree depth: 1.03736 [0, 5]
+Rollout depth: 25.3288 [1, 255]
+Total reward: 0.987115 [0, 1]
+
+Cell:203
+Aircraft:11
+Human:12
+Distance:4
+Observation: 16
+Tree depth: 0.02401 [0, 4]
+Rollout depth: 27.5604 [1, 187]
+Total reward: 0.998425 [0, 1]
+
+Cell:207
+Aircraft:15
+Human:12
+Distance:3
+Observation: 16
+Terminated
+Discounted return = 1, average = 1
+Undiscounted return = 1, average = 1
+Starting run 5 with 200000 simulations... 
+
+Cell:144
+Aircraft:0
+Human:9
+Distance:3

@@ -1,0 +1,3 @@
+Simulations	Runs	Undiscounted return	Undiscounted error	Discounted return	Discounted error	Time
+80	1000	0.003	0.00172945	0.003	0.00172945	0.00791258
+160	1000	0.004	0.001996	0.004	0.001996	0.0212253
